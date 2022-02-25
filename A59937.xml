@@ -1,0 +1,898 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oukoumenē melloōsa, the world to come, Heb. 2, 5, or, The doctrine of the Kingdom of God and his Christ to come on earth ... tendred in the mean-time out of faith in his own soul and love towards all men ... / by W.S. ...</title>
+            <author>Sherwin, William, 1607-1687?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59937</idno>
+            <idno type="STC">Wing S3407</idno>
+            <idno type="STC">ESTC R30641</idno>
+            <idno type="EEBO-CITATION">11379765</idno>
+            <idno type="OCLC">ocm 11379765</idno>
+            <idno type="VID">47663</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47663)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1470:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oukoumenē melloōsa, the world to come, Heb. 2, 5, or, The doctrine of the Kingdom of God and his Christ to come on earth ... tendred in the mean-time out of faith in his own soul and love towards all men ... / by W.S. ...</title>
+                  <author>Sherwin, William, 1607-1687?</author>
+               </titleStmt>
+               <extent>[2], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title in Greek characters.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Millennialism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47663:1"/>
+            <pb facs="tcp:47663:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>THE WORLD TO COME,</hi> Heb. 25. OR, The Doctrine of the Kingdom of GOD and his CHRIST, to come on Earth, <hi>Rev.</hi> 11.15. which ſhall ſhortly be over all Nations.</p>
+            <p>Tendred in the mean-time out of faith in his own Soul, and love towards all Men,
+<list>
+                  <item>Firſt, In the Principles or Foundations thereof, in four parts.</item>
+                  <item>Secondly, In the Practicals or Improvements of it on ſeveral Texts, as is more particularly ſpecified in the next leaf.</item>
+               </list>
+            </p>
+            <p>By <hi>W. S.</hi> Miniſter of the Goſpel, whoſe faith thereof is ſupported [be<g ref="char:EOLhyphen"/>ſides many others] by the Twelve ſpecial enſuing Foundations, as by ſo many Divine Gradations of Gods Revealing Confirming and Compleating the ſame in its due time. [Here alſo ſet down for the good of all men.] — As being
+<list>
+                  <item>I. Promiſed by God the Father, <hi>Gen</hi> 3.15. <hi>The Seed of the Woman,</hi> &amp;c. <hi>Pſal.</hi> 110.1. 1 <hi>Cor.</hi> 15.25. See Treat on <hi>Gen.</hi> 3.</item>
+                  <item>II. Propheſied of by <hi>Enoch</hi> in the old world, <hi>Jude</hi> 14, 15.</item>
+                  <item>III. Foretold by <hi>Jacob</hi> in the New World, <hi>Gen</hi> 49.1. with 10, 11, 12 in <hi>Judah</hi>'s Bleſſing.</item>
+                  <item>IV. Wonderfully manifeſted by <hi>Balaam</hi>'s the Sorcerers Parable, <hi>Numb.</hi> 24.17, 18, 19. and when, verſ. 23, 24.</item>
+                  <item>V. Typified by two partial Types in the Old World, <hi>viz.</hi> by <hi>Enoch</hi> and <hi>Noah,</hi> the Types of the firſt and ſecond ſtate thereof.</item>
+                  <item>VI. Typified alſo in the New World by three pairs of partial Types; the firſt of <hi>Abraham</hi> and <hi>Melchiſedeck,</hi> the ſecond of <hi>Moſes</hi> and <hi>Joſhua,</hi> the third of <hi>David</hi> and <hi>Solomon:</hi> The three firſt of the Kingdom of the Stone, <hi>Dan.</hi> 2.34. The three laſt of the Kingdom of the Mountain; As more fully appears in the following Expli<g ref="char:EOLhyphen"/>cation, page 9, <hi>&amp;c.</hi>
+                  </item>
+                  <item>VII. Confirmed alſo both to <hi>David</hi> and <hi>Solomon</hi> by a Divine Charter, very eminently illuſtrated a <hi>Sam.</hi> 7.8. to the end.</item>
+                  <item>VIII. Proved by a ſeven-fold Evidence in the <hi>Irenicon,</hi> with its Adjuncts formerly, by many ſorts of Arguments, <hi>&amp;c.</hi>
+                  </item>
+                  <item>IX. Twice alſo ſtrongly ratified to <hi>Daniel:</hi> Firſt by Revelation onely, after <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi>'s dream, in the two ſtates thereof, <hi>viz.</hi> of the Stone, Chap. 2.34. and of the Mountain, verſ. 35. Secondly, By both Viſion and Revelation, where after the four Beaſts <hi>Dan.</hi> 7. was ſhewed to him when Chriſt ſhall receive his <hi>Davidical</hi> Kingdom, (verſ. 14.) over all Nations.</item>
+                  <item>X. App<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ied by our Saviour himſelf to the Son of Mans Kingdom, <hi>Matth.</hi> 13.4. His coming in his Kingdom, <hi>Matth.</hi> 16.28. Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>led the Kingdom of God, <hi>Luc.</hi> 21.31.</item>
+                  <item>XI. Explained by St. <hi>Paul</hi> at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he deſtruction of the Man o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sin, 2 <hi>Theſſ</hi> 2.8. And Saints Reſt, 2 <hi>Theſſ.</hi> 1.7. Appeara<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce and Kingdom, 2 <hi>Tim.</hi> 4.1.</item>
+                  <item>XII. By Revelation m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to the belo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed Apoſtle <hi>John.</hi> Chap. 19.11. and Chap. 20, 21, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xplained page</hi> 4, 5, 6, 7, 8, &amp;c.]</item>
+               </list>
+            </p>
+            <p>
+               <hi>LON<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the year 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:47663:2"/>
+            <head>The STATIONER's Advertiſement TO THE READER.</head>
+            <opener>
+               <salute>Ingenuous Readers,</salute>
+            </opener>
+            <p>
+               <hi>BE pleaſed to take notice in reference to your bet<g ref="char:EOLhyphen"/>ter ſatisfaction in ſome reſpects, That the Te<g ref="char:EOLhyphen"/>ſtimony of divers Grave and Judicious Do<g ref="char:EOLhyphen"/>ctors of Divinity verſt in ſuch Studies, is given to this Work, with many other Miniſters of the Goſpel, and Learned Doctors of Phyſick, and other knowing Perſons, of its preſent uſefulneſs in the Church of God; wherein the Truth is carefully vindicated from antient and modern Errors; and Scripture-Evidence given for many Excellencies belonging to that ſtate,</hi> &amp;c. <hi>And who have alſo by their Subſcriptions encou<g ref="char:EOLhyphen"/>raged the ſpeedy compleating of the ſaid Work.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47663:2"/>
+            <div n="1" type="part">
+               <head>Here Reader obſerve as to the first Part of the general Title-page, — That according to the reference before,</head>
+               <p>FIrſt the ſaid Doctrine is proved—In the Principles or Foun<g ref="char:EOLhyphen"/>dations of it, contained in the foreſaid four parts, which are theſe following:</p>
+               <p>Firſt, The <hi>Prodromos</hi> or Fore-runner, conſiſting of ſeventeen <hi>Theſis</hi> of D vinity, leading in the ſaid Doctrine, <hi>pag.</hi> 9, 10, 11, 12. and of ſome uſeful occaſional Letters and Papers there ſet down, whereunto reference is afterwards often fitly made in the enſuing parts.</p>
+               <p>The ſecond is the <hi>Irenicon,</hi> or the peaceable conſideration of Chriſts peaceful Kingdom on Earth to come, chiefly proving from Scripture, and many ſorts of Arguments, that ſuch a Kingdom and ſtate of things ſhall be in the world, upon a ſeven-fold foundation, ſet down in the beginning thereof. Whereunto is added an Appen<g ref="char:EOLhyphen"/>dix of the firſt bleſſed Reſurrection of the Juſt, <hi>Rev.</hi> 20.6, to be in the time of Chriſts ſaid Reign with his Saints on Earth.</p>
+               <p>The third is intituled, <hi>The Parallel of the Prophetical Viſions of Da<g ref="char:EOLhyphen"/>niel, for after-times, and of the Revelation of Jeſus Chriſt;</hi> reſpecting and unfolding the matters of the ſame times, very briefly and divinely couched before in <hi>Daniel</hi>'s ſaid Viſions, to be ſhut up and ſealed unto the time of the end, <hi>i. e.</hi> until Chriſt came, who afterwards by his ſo wonderful giv ng the Book of <hi>Revelation</hi> to the Evangeliſt St. <hi>John,</hi> opened and unſealed them, and gave them a ſpecial command not to ſeal them any longer, <hi>Rev.</hi> 22.10. Which ſaid Parallel was the fourth thing propounded to be conſidered in this ſubject, in the ſecond page of the <hi>Irenicon,</hi> and afterwards, as an Additional thereof, was anne<g ref="char:EOLhyphen"/>xed to it, to make up that part of the ſaid <hi>Irenicon,</hi> as containing the main ground thereof, both from that greatly beloved Prophet <hi>Daniel</hi> in the Old Teſtament, and the beloved Diſciple <hi>John</hi> in the New: To prepare for which Parallel (being of ſo very great concernment in the ſaid Doctrine) firſt there is ſet down an abridgement of the chief Prophetical Viſions of <hi>Daniel,</hi> wherein are compriſed the times, fates, and ſucceſſions of the four Mettle. Kindgoms or Monarchies, <hi>Dan</hi> 2. and of the four Beaſts, <hi>Dan.</hi> 7. in ſubſtance the ſame; yet each being not only a ſtrong confirmation, but alſo an inlargement, and in ſome things an explication of the other, as in both the ſumma<g ref="char:EOLhyphen"/>ry of <hi>Daniel,</hi> and in the Parallel is to be obſerved. Alſo a like A<g ref="char:EOLhyphen"/>bridgment of the <hi>Revelation,</hi> was to ſuch purpoſe before ſet down,
+<pb n="2" facs="tcp:47663:3"/>Chap. 5. pag. 26, 27, 28. of the <hi>Irenicen,</hi> to be compared with the Let<g ref="char:EOLhyphen"/>ter to Mr. <hi>Cal. May</hi> 20. 1664 pag. 22, 23, <hi>&amp;c.</hi> of the <hi>Prodromos:</hi> and laſt of all, to ſuch parpoſe thereto is prefixed the Scheme of the whole Book of the <hi>Revelation,</hi> and a ſummary of <hi>Daniel</hi>'s Viſions, further to make the way more plain to ſo uſeful a part as the Parallel may prove to ſuch as with theſe or the like helps may further and more fully (by Gods goodneſs) improve it hereafter, as there is great rea<g ref="char:EOLhyphen"/>ſon and divine engagement for Chriſtians ſo to do, <hi>Rev</hi> 1.3. &amp; 22.10.</p>
+               <p>Fourthly, The laſt part conſiſting chiefly of 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> uſeful Obſervati<g ref="char:EOLhyphen"/>ons to underſtand myſtical Propheſies, with anſwers to ſundry Obje<g ref="char:EOLhyphen"/>ctions made by ſome perſons againſt theſe Doctrines, which being of <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ddle nature, ſubſervient to both the ſaid Principles and Pract cals, they are now conjoyned with the latter: And unto the ſaid Princi<g ref="char:EOLhyphen"/>ples is preſixed in the ſtead thereof, The Word written, or eight con<g ref="char:EOLhyphen"/>vineing Arguments for theſe Truths, ſet in the firſt place, before the <hi>Prodromos</hi> or Forerunner, as containing a ſhort Abridgment of much Divine <hi>Truth</hi> of this nature, <hi>&amp;c.</hi>
+               </p>
+               <p>And Secondly, The ſaid Doctrine is improved to many good purpoſes in the Practicals.</p>
+               <p>The firſt whereof is the Treatiſe upon <hi>Gen.</hi> 3.15. <hi>The Seed of the Woman ſhall break the Serpents head.</hi> The Abridgment of which, as the firſt part of the Everlaſting Goſpel, with the Treatiſe alſo, are preſixed before the reſt.</p>
+               <p>The ſecond part of which everlaſting Goſpel being the ſecond Pra<g ref="char:EOLhyphen"/>ctical piece, given by God the Son and the Holy Ghoſt, is contained in a Tract upon <hi>Rev.</hi> 22.20. <hi>Behold I come quickly: Amen: Even ſo come, Lord Jeſus.</hi> Setting forth the different names, times, natures and purpoſes of Chriſts ſecond coming at the beginning of the thou<g ref="char:EOLhyphen"/>ſand years, <hi>Rev.</hi> 19.11. And of his deſcending from Heaven at the ſounding of the laſt Trump, at the general Rapture and Change of all the Saints, when the little ſpace of Satans loſing is ended, and the laſt <hi>Gog</hi> and <hi>Magog</hi> deſtroyed by fire from God out of Heaven, after the thouſand years, when he ſhall come to ſit on the great white Throne, and Heaven and Earth ſhall flee away before his face, and no place be found for them, <hi>Rev.</hi> 20.11. And all wicked men ſhall be rai<g ref="char:EOLhyphen"/>ſed to be judged, and the irrevocable Sentence in Gods order ſhall be paſſed upon Good and Bad to all Eternity. Unto which are adjoyned nine Uſes of the ſame Doctrine.</p>
+               <p>The third practical piece is on <hi>Jer.</hi> 3.17. <hi>At that time Jeruſalem ſhall be called the Throne of the Lord, and all Nations ſhall come to the Name of the Lord at Jeruſalem:</hi> Which is now placed after the afore<g ref="char:EOLhyphen"/>ſaid
+<pb n="3" facs="tcp:47663:3"/>Obſervations and Anſwers to Objections, as being the Topſtone of this Doctrinal Edifice, and which will reach at length to the high<g ref="char:EOLhyphen"/>eſt Heavens.</p>
+               <p>And now, Prudent Chriſtian Reader, I hope thou wilt indulge me in ſome matters thy juſt excuſe; for though ſome are clear and evi<g ref="char:EOLhyphen"/>dent from ſundry Texts of holy Scripture, yet others are only proba<g ref="char:EOLhyphen"/>ble, and ſome but meerly conjectural (as was fore-advertiſed, <hi>Prodrom. pag</hi> 44.) and conſequently the grounds thereof are ſuitably either evi<g ref="char:EOLhyphen"/>dent, probable, or conjectural only: Whence it will be imprudence and unequal judging, to reject many evident truths of this nature, be<g ref="char:EOLhyphen"/>cauſe of ſome other miſtaken conjectures: But having long ſince ſet to ſail in ſuch a vaſt and rough ſloating Ocean, wherein it was to be expected (notwithſtanding any hoped advantage) I was like to be much toſſed with various winds and tempeſts, before I could look to atrive at the Cape of good Hope: and being alſo to travel far in a much untraced Wilderneſs, or which was worſe, to fall into ſuch Ma<g ref="char:EOLhyphen"/>zes and Meanders wherein many have loſt themſelves; yet ſince that ſuch a Wilderneſs was my way to come to the promiſed Land; though the Cloud by day, and the Pillar of Fire by night, did not always ap<g ref="char:EOLhyphen"/>pear to go before me; yet I may not ſay but that I have in a gracious manner many times found their guidance: But yet have met with ma<g ref="char:EOLhyphen"/>ny <hi>Amalakites, Moabites,</hi> and <hi>Ammonites,</hi> to hinder my paſſage thi<g ref="char:EOLhyphen"/>ther; beſides the Sons of <hi>Anak,</hi> and alſo the ſtinging ſiery Serpents, which cauſed me often to look up to the true Brazen Serpent, for my needful cure: VVhereupon I have by comfortable experience found, That Creature Obſtructions have ſometimes proved to me Gods In<g ref="char:EOLhyphen"/>ſtructions; and ſome mens hindrances have often (to them unwitting<g ref="char:EOLhyphen"/>ly) produced Gods help for me, who by remarkable Providences hath many times turned great ſeeming difficulties to real uſeful advantages: Otherwiſe I could not have hoped ſo far by faith to have ſeen the New <hi>Jeruſalem's</hi> Beauty and Bleſſedneſs on Earth, (as they <hi>Heb.</hi> 11. and as now through the mercy and goodneſs of my God, is here offered to thy view: [To which haply much may be added, if God give oppor<g ref="char:EOLhyphen"/>tunity, by Explications or Diſcourſes] VVherein I hope I my ſelf, with the many ten thouſands and ten times ten thouſands of ſaithful Chriſtians ſhall attain a long laſting habitation as appointed of God, In that time <hi>The Tabernacle of God ſhall be with men upon Earth</hi> Rev. 21. <hi>&amp;c.</hi> where we ſhall all behold Chriſts glory, which the Father hath given him, and he to them, by his laſt VVill and Teſtament, <hi>John</hi> 17.24. when the ſaid Lamb ſhall be the Light of that City. To
+<pb n="4" facs="tcp:47663:4"/>which I groundedly by faith ſay, <hi>Amen.</hi> For confirmation where<g ref="char:EOLhyphen"/>of, for others benefit, I deſire ſtill to be by all good means ſubſer<g ref="char:EOLhyphen"/>vient,</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Septemb.</hi> 11. 1671.</date>
+                  </dateline>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div n="2" type="part">
+               <head>Of the <hi>XII</hi> fore-named Foundations of the ſaid Doctrine, in the ſecond part of the general Title-page believed: — As being,</head>
+               <p n="1">I. FIrſt promiſed by God the Father, <hi>Gen.</hi> 3.15. as the moſt emi<g ref="char:EOLhyphen"/>nent breaking of the Serpents [Satans] Head, both natural, (as I may ſay) and politick, of his Craft and Dominion, when all his former <hi>Babyloniſh</hi> Deſigns ſhall be defeated and utterly deſtroyed; which was, ſaith the Apoſtle <hi>John,</hi> 1 <hi>Epiſt.</hi> 3.8. one end of Chriſts coming into the world, to deſtroy the works of the Devil; which in an eſpecial manner will moſt evidently and powerfully be done, when Chriſt comes from the right hand of the Father, whither (as that No<g ref="char:EOLhyphen"/>bleman in the Goſpel, <hi>Luke</hi> 19.) he went at his aſcention into Heaven, te receive his Kingdom, and to return, as he himſelf ſpeaketh; to wit, when he will ſo come, and in ſuch wonderful manner make his foes his footſtool; until which ſaid time he will continue there, ac<g ref="char:EOLhyphen"/>cording to that Divine Oracle ſo frequently mentioned and improved in the New Teſtament, <hi>Pſal.</hi> 110.1, &amp;c. <hi>Sit thou on my right hand un<g ref="char:EOLhyphen"/>til I make thy ſoes thy ſootſtool:</hi> VVhere, as the Apoſtle ſaith, he ſits ſtill, expecting till his foes are made his footſtool, <hi>Heb.</hi> 10.13. which at Chriſts ſaid coming in the Clouds will moſt certainly and powerful<g ref="char:EOLhyphen"/>ly be accompliſhed above 1000 years before the laſt Reſurrection and General Judgment, as is moſt orderly ſet down in that divine and glo<g ref="char:EOLhyphen"/>rious Revelation to St. <hi>John,</hi> Chap. 19 11. &amp; Chap. 20. to v. 11. when he will cauſe his moſt proud and mighty foes to hide themſelves again in the holes of the Rocks, as in ſome meaſure in <hi>Conſtantines</hi> ruining of the Paganiſh Powers, <hi>Rev.</hi> 6.15.16, 17, was terribly fulfilled: but at the laſt ruine of the moſt abominably tyrannous Kingdom of the Beaſt and falſe Prophet, at the appearance of Chriſts ſaid Coming and Kingdom will much more terribly by himſelf be accompliſhed, 1 <hi>Theſ.</hi> 2.8. 2 <hi>Tim</hi> 4.1. As then the Prophet <hi>Iſaiah</hi> twice of thoſe times confirms the terrour of it, Chap 2. verſe 19, 21. That <hi>the loftineſs of man ſhall be bowed down, and the haughtineſs of man ſhall be made low,
+<pb n="5" facs="tcp:47663:4"/>and the Lord alone be exalted in that day, when he wid utterly aboliſh Idols, that they may go into the holes of the Rocks, and into the caves of the Earth, for fear of the Lord, and for the glory of his Majeſty, when he ariſeth to ſhake terribly the Earth:</hi> And the forcible efficacy of this his Prophecy he again further illuſtrates and confirms verſe 20, 21. Yet obſerve though he ſaith there, He will ſhake terribly the Earth, twice; yet he ſaith not that then he will utterly deſtroy the world, which nei<g ref="char:EOLhyphen"/>ther will be till the ſaid 1000 years, and little ſpace of Satans looſing, be afterwards fulfilled, as <hi>Rev.</hi> 20.8, 9, 10, <hi>&amp;c.</hi> But then the Lord, as the Pſalmiſt ſpeaks, will ſend the Rod of his ſtrength out of <hi>Sion,</hi> and he ſhall then rule in the midſt of his Enemies, <hi>Pſal.</hi> 110.6, <hi>&amp;c.</hi> and ſmite <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the Head, not Heads (as tranſlated) of divers Countreys, <hi>viz.</hi> the Pope or Turk, (or both, as making in ſeveral reſpects the whole Antichriſt of the latter times) but much more upon the ſaid Text <hi>Gen.</hi> 3.15. may be obſerved to the ſame pourpoſe in the Treatiſe thereupon.</p>
+               <p n="2">II. Secondly, Propheſied of by <hi>Enoch</hi> in the Old VVorld, <hi>Jude</hi> 14, 15. <hi>Behold the Lord cometh with ten thouſand of his Saints, to execute Judgment upon all, and to convince all that are ungedly among them of all their ungodly deeds which they have ungodly committed, and of all their un<g ref="char:EOLhyphen"/>godly ſpeeches which ungodly ſinners have ſpoken againſt him.</hi> VVhere obſerve how general he declares this Judgment ſhall be in the iſſue of it; and then how throughly he will diſcover ungodly men, though now they hide themſelves in the Crowd, and for a time towards godly men ſhift off and excuſe and hide their ungodlineſs, yet then Chriſt will convince themſelves which were the concealers and hiders; and not ſome few only, or many, but all of them; and not of few, or only ſome ſorts or numbers of their deeds, but of all their ungodly deeds; nor only of the ſubſtance of them, but of all the circumſtan<g ref="char:EOLhyphen"/>ces and aggravations of them, as ungodlily committed by them; and not onely of their deeds, but of their words alſo, yea of their moſt ſecret thoughts ſubſervient to both; for they ſhall be convinced of them, which conviction will reach the moſt ſecret workings of their ſpirits; and both and all in the moſt large extent, whatever hath been done or ſpoken againſt him, that is Chriſt, whereby mens ſins are moſt hainouſly aggravated many ways, though they little at preſent conſi<g ref="char:EOLhyphen"/>der it; but in Chriſts execution of Judgment upon all in his own or<g ref="char:EOLhyphen"/>der, manner and time, they muſt know all theſe.</p>
+               <p>This excellent Prophecy ſeems to have been handed in a wonderful way of gracious divine Providence from <hi>Enoch</hi> to the Apoſtle <hi>Jude,</hi> by whoſe hand Chriſts ſpirit hath made it to become holy Scripture. And
+<pb n="6" facs="tcp:47663:5"/>it is no marvel that God ſhould ſo preſerve that Prophecy of the laſt times and things, ſince he would, for the warning of all, have all his Prophets witneſs thereto, as his Spirit in the Apoſtle <hi>Peter</hi> manifeſt<g ref="char:EOLhyphen"/>ed <hi>Acts</hi> 3.20, 21. <hi>As</hi> (ſaith he) <hi>he ſpake by the mouth of all his holy Pro<g ref="char:EOLhyphen"/>phets ſince the world began;</hi> He would not have even the old wicked world without ſuch an eminent warning: nor ſuch as godly <hi>Enoch</hi> then to be without the comfort of that Deliverer of his people then to come, to recompence their ſufferings for him with a ſuitable happineſs with him afterwards, as the Apoſtle <hi>Paul</hi> declareth, 2 <hi>Tim.</hi> 2.12. for his ſaid coming then is to both thoſe purpoſes, wherein the ſame Spi<g ref="char:EOLhyphen"/>rit could enlighten ſuch as <hi>Enoch</hi> then, as he did <hi>Abraham, Iſaac, Jacob,</hi> and <hi>Sarah,</hi> afterwards, who by their faith ſaw thoſe Promiſes afar off, while they lived on earth, which they believed to ſee accompliſhed in their due time, <hi>Heb.</hi> 11.13. <hi>viz.</hi> which will be at the ſaid coming of the Lord with ten thouſand of his Saints, and at the Reſurrection of the Juſt (as <hi>Iſa.</hi> 26.14, 19) which as it will be the year of the Lords re<g ref="char:EOLhyphen"/>compence to take vengeance on the wicked (quick) by a ſudden de<g ref="char:EOLhyphen"/>ſtruction to ſend them to hell; ſo alſo of recompence to the godly, to whom they will be times of refreſhing from the preſence of the Lord, and of the reſtitution of all things, for their real good and comfort in all that God hath before promiſed or revealed to ſuch purpoſe, <hi>Act.</hi> 3.19, 20, 21. though particular Saints have not or may not in many things attain to the knowledge of them, nor (haply) any one ſhall in many things more till the fruition of them: Even as the moſt knowing be<g ref="char:EOLhyphen"/>fore Chriſts coming, knew not of many things done at that his com<g ref="char:EOLhyphen"/>ing, as of the Star, the Shepherds, of <hi>Herod</hi>'s trouble at his birth, nor the earthquake, darkneſs, the cleaving of the Vail of the Temple, or dead Saints riſing at his death, <hi>&amp;c.</hi> (beſides the many things which happened in his life) although much more of theſe laſt times ſince our Saviour aſcended (as he ſaid a little before it, <hi>Acts</hi> 1.8 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is now reveal<g ref="char:EOLhyphen"/>ed of his ſecond coming, as alſo was before in the Old Teſtament con<g ref="char:EOLhyphen"/>cerning the ſame, than at any time was of his firſt, as is eaſily to be obſerved, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">III. Thirdly, Foretold by <hi>Jacob</hi> in the New World, <hi>Gen.</hi> 49. who verſe 1. ſpeaketh of things to be in the latter or poſtremity of days; which is eſpecially applicable to what he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith afterwards, verſ 10, 11, 12. in his Prophecy of <hi>Judah,</hi> to which Tribe is therein aſcribed the preheminence with plenty and peace (as is therein manifeſt) chiefly to be enjoyed after <hi>Shilo</hi>'s coming, to whom the gathering of the peo<g ref="char:EOLhyphen"/>ple ſhould be, but moſt eſpecially in their greateſt gatherings, when Jews and Gentiles ſhall rejoyce together (moſt eminently) as <hi>Deut.</hi>
+                  <pb n="7" facs="tcp:47663:5"/>32.43. is by <hi>Moſes</hi> alſo foretold to be in the latter or poſtremity of days; of which times alſo our Saviour ſaith, There ſhall be one ſheep<g ref="char:EOLhyphen"/>fold under himſelf that one Shepherd of them both, <hi>John</hi> 10.16.</p>
+               <p n="4">IV. Fourthly, Wonderfully and graciouſly manifeſted by <hi>Balaam</hi>'s Parable, not being an holy Prophet, as others <hi>Acts</hi> 3.21. but a Sorce<g ref="char:EOLhyphen"/>rer, hired by <hi>Balaak</hi> King of <hi>Moah</hi> to curſe Gods People, who turn<g ref="char:EOLhyphen"/>ed his attempting of the worſt of Curſings into the choiceſt of Bleſ<g ref="char:EOLhyphen"/>ſings to them; giving him thereby to know, That there was no en<g ref="char:EOLhyphen"/>chantment againſt <hi>Jacob,</hi> neither any divination againſt <hi>Iſrael:</hi> for <hi>Satan</hi> cannot hurt thoſe whom God undertakes to preſerve, as <hi>Numb.</hi> 23.20, 22. But when he had further tried his Enchantments, Chap. 24, he is further in ſpecial forced to pronounce greater bleſſings for them. verſ. 6, 7, 8, 9. ſaying, <hi>How goodly are thy Tents, O Jacob, and thy Taber<g ref="char:EOLhyphen"/>nacles, O Iſrael!</hi> But being further urged by <hi>Balaak,</hi> he ſhews what that People ſhould do againſt his People in the latter days; and then verſ. 17. falls upon the coming of the <hi>Meſſiah</hi> far off, ſaying, <hi>I ſhall ſee him, but not now; I ſhall behold him, but not nigh: There ſhall come a Star out of Jacob, and a Scepter ſhall riſe out of Iſrael, and ſhall ſmite all the Corners of Moab, and deſtroy all the Children of Sheth, and Edom ſhall be a poſſeſsion, Seir alſo ſhall be a poſſeſsion for his Enemies, and Iſ<g ref="char:EOLhyphen"/>rael alſo ſhall do valiently:</hi> And verſe 19. <hi>Out of Jacob ſhall come he that ſhall have Dominion, and ſhall deſtroy him that remaineth in the City,</hi> &amp;c. But after all, he comes to the laſt terrible times, verſe 23, 24. ſaying, <hi>Alas who ſhall live when God doth this!</hi> And verſ. 24. he fore-tells <hi>ſhips ſhall come from the coaſts of Chittim;</hi> which Mr. <hi>Mede</hi> evidently ſhews to be meant of the Roman Navy coming from <hi>Italy,</hi> and are ſo appli<g ref="char:EOLhyphen"/>ed in the order of accomdliſhment by <hi>Daniel,</hi> Chap. 11.30. and then declares what the Romans ſhall do, <hi>viz. They ſhall afflict Aſhur, and ſhall afflict Eber,</hi> which they have long done; but ſince they were to be the laſt Oppreſſor of the <hi>Jews,</hi> he further adds, <hi>And he alſo ſhall periſh for ever,</hi> or <hi>ſhall go into perdition,</hi> as is otherwiſe expreſſed by the holy Ghoſt, <hi>Rev.</hi> 17 8. that is, the Roman Monarchies being the laſt, ſhall utterly be ruined when Chriſt ſhall deſtroy the man of ſin, when all wicked and tyrannous Dominion ſhall utterly ceaſe, and the Kingdom of the Stone ſhall becom a great Mountain filling the whole Earth; when that Star, and that Scepter, and that Dominion he ſpake of be<g ref="char:EOLhyphen"/>fore, verſe 17, 19. which are often in Scripture afterwards ſpoken of, ſhall continue for ever, <hi>viz.</hi> to the end of the world. Theſe things are obvious, I ſhall not therefore here inſiſt further on them.</p>
+               <p n="5">V. Fifthly, Typified firſt by one pair of partial Types in the Old World, ſecondly by three partial pairs in the New.</p>
+               <pb n="8" facs="tcp:47663:6"/>
+               <p>Firſt the ſaid pair of partial Types in the Old World, are
+<list>
+                     <item>
+                        <hi>Enoch</hi>'s aſcending, ſhewing the bginning of the Kingd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m of the Stone, at Chriſts aſcention into Heaven, <hi>Dan.</hi> 2 34. And</item>
+                     <item>
+                        <hi>Noah</hi>'s ſaving his by the Ark, ſhews how Chriſt at the general Rap<g ref="char:EOLhyphen"/>ture of all Saints, as the true Ark will ſave them, when all wicked men ſhall periſh at the finiſhing of the Kingdom of the Mountain, <hi>Dan.</hi> 2 33.</item>
+                  </list>
+               </p>
+               <p>Firſt, <hi>Enoch</hi> was a Type of Chriſt in his walking with God, who (as the Apoſtle ſaith, <hi>Heb.</hi> 11.5.) before his Tranſlation had this Teſti<g ref="char:EOLhyphen"/>mony, <hi>That he pleaſed God,</hi> and therefore was tranſlated that he ſhould not ſee death, in a wonderful manner, Body and Soul, in a way un<g ref="char:EOLhyphen"/>known to man, into an ever-bleſſed and happy condition: Even as Chriſt having fulfilled the work God gave him to do on earth, and fulfilled all the wills of his heavenly Father, in the Body which he gave to him, <hi>Heb.</hi> 10.5, 7, 8, 9. who therefore had this Teſtimony from the Father, That he was his beloved Son, in whom he was well pleaſed, <hi>Matth.</hi> 3.17. and after all things were done in order by him, to the laſt finiſhing of the work of Redemption, and the witneſſing of his Re<g ref="char:EOLhyphen"/>ſurrection from the dead to his Apoſtles, and other faithful Witneſ<g ref="char:EOLhyphen"/>ſes thereof, he then aſcended viſibly into Heaven, in the ſight of his Diſciples, <hi>Acts</hi> 19. <hi>Luke</hi> 24.51. which was his eminent beginning of the Kingdom of the Stone, which is the firſt ſtate thereof; when he ſo triumphed gloriouſly over all the ſpiritual Powers of Darkneſs, as the Apoſtle teacheth, <hi>Col.</hi> 2.15 ſo leading Captivity captive, to give his Kingly Divine Giſts unto men.</p>
+               <p>Secondly, <hi>Noah</hi> alſo, that Preacher of Righteouſneſs, as he is ſti<g ref="char:EOLhyphen"/>led <hi>Heb.</hi> 11. may be added unto <hi>Enoch,</hi> being another partial Type of Chriſt; Kingdom in the ſecond ſtate of it, or the Kingdom of the Mountain; who by faith (ſaith the Apoſtle <hi>Heb</hi> 11.) performed that Princely or Kingly ſervice, to make the Ark in the ſight of that wick<g ref="char:EOLhyphen"/>ed Generation in the Old World, that after periſhed by the Flood, thereby to ſave himſelf and all his Relations that entred with him into it: So Chriſt, who ſhall be called (ſaith the Prophet <hi>Jeremiah,</hi> Chap. 23) by his Church, <hi>The Lord our Righteouſneſs,</hi> and hath long ſent
+<pb n="9" facs="tcp:47663:6"/>abroad the Preachers of his Righteouſneſs into the wicked World, who regardeth it not: when the time of their periſhing at laſt ſhall in<g ref="char:EOLhyphen"/>evitably come upon them by a deluge of fire, as it did on the old world by water: He will himſelf become at that time the true Ark prepared for all his true Members united ſpiritually unto him, at the general Rapture or Change of all the Saints, when the wicked remaining on Earth ſhall all periſh at the worlds loſt deſtruction by fire, where all the other ſhall abide with Chriſt, in the greateſt ſafety and ſecurity, above all worldly dangers ſufferings, or changes, even when the Hea<g ref="char:EOLhyphen"/>vens and Earth ſhall be diſſolved for ever.</p>
+               <p n="6">VI. Sixthly, Again alſo typi<g ref="char:EOLhyphen"/>fied by three pairs of partial Types in the New world.
+<list>
+                     <item>Firſt of the Kingdom of the Stone,
+<list>
+                           <item>Firſt, In <hi>Abraham,</hi> towards the firſt times of the new world.</item>
+                           <item>Secondly, In <hi>Moſes</hi> his Conduct from <hi>Egypt,</hi> and in the Wilder<g ref="char:EOLhyphen"/>neſs afterwards.</item>
+                           <item>Thirdly, In <hi>David</hi>'s Conqueſt and Kingdom which God ſet up and gave him.</item>
+                        </list>
+                     </item>
+                     <item>Secondly of the Kingdom of the Moun<g ref="char:EOLhyphen"/>tain,
+<list>
+                           <item>Firſt, In <hi>Melthiſedeck</hi> King of <hi>Sa<g ref="char:EOLhyphen"/>lem,</hi> that is, King of Peace.</item>
+                           <item>Secondly, In <hi>Joſhua</hi>'s Conduct of Gods People into the promiſed Land.</item>
+                           <item>Thirdly, In <hi>Solomon</hi>'s peaceful Kingdom, the immediate Seed of <hi>David</hi>'s Loyns.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>Firſt, In the New world God ſaid a new foundation with <hi>Abraham</hi> of Chriſts Kingdom, in his free Covenant with him, to be his God, and the God of his Seed, which the Apoſtle ſaith was one, namely Chriſt, <hi>Gal.</hi> 3.16. and by no other way was <hi>Abraham</hi> capable of that mercy, that God ſhould become his God: Indeed God both promiſed and beſtowed many Benefits and Priviledges upon <hi>Abraham</hi>'s, <hi>Iſaac</hi>'s, and <hi>Jacob</hi>'s natural Seed, upon the renewing or repeating of the ſub<g ref="char:EOLhyphen"/>ſtance of that Covenant; but all upon that Foundation-Truth where<g ref="char:EOLhyphen"/>in their Souls were divinely illuminated, that the Son of God ſhould become the Son of <hi>Abraham</hi> in a wonderful divine manner, and ſo by him in a ſpiritual way of grace, ſuch his Children by faith ſhould be<g ref="char:EOLhyphen"/>come the Sons of God; and both he and they by ſuch a way of faith
+<pb n="10" facs="tcp:47663:7"/>and grace, ſhould inherit all the promiſes, as the Spirit of God revea<g ref="char:EOLhyphen"/>led and parpoſed ſo to fulfil them: And therefore the Apoſtle <hi>Heb.</hi> 11. doth remarkably ſhew how <hi>Abraham, Iſaa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Jacob,</hi> and <hi>Sarah,</hi> by ſuch illuminat on of their Souls, ſaw afar off by faith the promiſes to be fulfilled in Chriſts Kingdom, and at the Reſurrection of the Juſt: when <hi>Abraham</hi> ſhall be heir of the world actuaily, which he was but onely by faith whilſt he lived in the world, as he alſo teacheth, <hi>Rem.</hi> 4.13. and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nely from that ground all Gods Servants are intereſſed in any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mpora. Promiſes or Bleſſings. And in ſuch time of his living but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Abraham</hi> was a great conquerour of his Enemies, when he d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vered his Brother <hi>Lot</hi> and his houſe, and thoſe with him, from there Kings that carried them Captives. So Chriſt whilſt he is fulfil<g ref="char:EOLhyphen"/>ling the Covenant m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de with the Faithful, he is a great Conquerour, and delivereth all his Prethren, whoſe fleſh he took, from their nature, and gives them his Spirit from his own Divine Nature, which mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s them ne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly related to him, and dearly beloved of him, and in whoſe behalf and for whoſe deliverance he did not onely venture himſelf, as <hi>Abraham</hi> did for <hi>Lot</hi> and his, but actually ſuffered death, to deliver them from their ſpiritual bondage and erernal miſery.</p>
+               <p>The other of this firſt pair of partial Types in the firſt times of the New World, is <hi>Melchiſedeck,</hi> who is not improbably conceived to be <hi>Shem</hi> the eldeſt Son of <hi>Noah,</hi> who both of them lived in both the Old and the New Worlds; by both holding out unto us the Eternity of God the Father and the Son, from whom the Worlds deliverance was fully in time to be accompliſhed. But <hi>Melchiſedeck,</hi> as alſo <hi>Abraham,</hi> was both a Prieſt and King; even as <hi>Abraham,</hi> who ſeemed not onely to be a King by his ſaid Conqueſt, but a Prieſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n offering his Son <hi>Iſa<g ref="char:EOLhyphen"/>ac, whom</hi> (ſaith the Apoſtle) <hi>he received again from death in a figure,</hi> and was then appointed really to offer the Ram in the Buſh in his ſtead; and was alſo ſaid in ſome ſence to be a Prophet, to pray for <hi>Abimelech,</hi> Gen 20.7. Alſo <hi>Melchiſedeck</hi> was Prieſt of the moſt high God, without Father and without Mother (then known in <hi>Abraham</hi>'s days) typifying the eternal Prieſthood of Chriſt after his order, <hi>Heb.</hi> 7. and alſo King of <hi>Salem,</hi> that is, King of Peace; typifying alſo there<g ref="char:EOLhyphen"/>by Chriſt the great King of the New <hi>Jeruſalem,</hi> to come from God out of Heaven, (as he ſtile, himſelf, <hi>Matth.</hi> 5.) which as the Son and Heir of <hi>Abraham,</hi> doth alſo according to Gods Covenant belong un<g ref="char:EOLhyphen"/>to him; and ſion it, it is very obſervable, that Chriſts Office and Ti<g ref="char:EOLhyphen"/>tle to his Kingdom is cont<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aally confirmed and renewed in all the re<g ref="char:EOLhyphen"/>newed Promiſes and Types made by God to and by the faithful fore<g ref="char:EOLhyphen"/>Fathers ſucceſſively; as alſo <hi>Melchiſedeck</hi> is here expreſly ſaid to be
+<pb n="11" facs="tcp:47663:7"/>King of <hi>Salem,</hi> an evident Type of Chriſt the great King of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> (as was ſaid) who doth and will bleſs his People with all deſira<g ref="char:EOLhyphen"/>ble peace, as <hi>Melchiſedeck</hi> bleſſed <hi>Abraham</hi> returning with the ſpoi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s from the ſlaughter of the ſaid Kings; as Chriſt will alſo more fully confirm to them, when all his and their Foes are made his foot<g ref="char:EOLhyphen"/>ſtool.</p>
+               <p>Secondly, Chriſts Kingdom in the ſaid two-ſold ſtate of it, was evidently deciphered in <hi>Moſes</hi> his Conduct of <hi>Iſrael</hi> out of <hi>Egypt,</hi> and in the Wilderneſs; and then by <hi>Joſhua</hi>'s Conduct into <hi>Canaan:</hi> But Chriſt, to anſwer both, doth not onely ſpiritually, by his Death, Re<g ref="char:EOLhyphen"/>ſurrection and Aſcertion, deliver his <hi>Iſrael,</hi> and leave them then in their Wilderneſs condition; but as the true <hi>Joſhua</hi> alſo, or JES<g ref="char:V">Ʋ</g>S, will ſave them from all evil, and from all their enemies, <hi>Luc.</hi> 1. and bring them into poſſeſſion of the heavenly <hi>Canaan,</hi> as it is ſtiled <hi>Heb.</hi> 3. being the City whoſe Builder and Maker is God, prepared for the faithful fore-fathers <hi>Heb.</hi> 11.</p>
+               <p>And firſt for <hi>Moſes,</hi> who was then ſtiled King in <hi>Jeſurun,</hi> as to Chriſts Ch rches firſt ſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, during the Kingdom of the Stone, ſet up by his firſt coming, <hi>Dan.</hi> 2.34. In reſpect of which, though <hi>Moſes,</hi> as the Apoſtle <hi>Paul</hi> ſpeaketh, was faithful in all Gods Houſe, <hi>Heb.</hi> 3.2. yet but as a Servant and M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niſter of the Lord, the Antitype; for he made or gave no Laws (then) of his own to Gods people, but what he received from God for them; nor executed Judgment in extraordina<g ref="char:EOLhyphen"/>ry caſes, but by Gods direction as in the gathering ſticks on the Sab<g ref="char:EOLhyphen"/>bath day. But Chriſt was as a Son (when he came) in his own Houſe, <hi>Heb.</hi> 5.6. whoſe Houſe his People are: What Goſpel <hi>Moſes</hi> taught <hi>Iſrael,</hi> or ſet before them (then) was but in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ype, till the t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me of Reformation, <hi>Heb</hi> 9.10. till Chriſt put an end to a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l typical worſhip: Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Moſes</hi> could not bring them to the promiſed Reſt, that he left for <hi>Joſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ua</hi> to perform: So all the life and ſubſtance of all <hi>Moſes</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ypes and Ceremon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s was onely to be ſound in Chriſt; He the true and onely Son of God, carr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll thoſe things to their full and perfect end, who will be the true peace and reſt of his People in the Land of the Li<g ref="char:EOLhyphen"/>ving (as that World to come, <hi>Heb.</hi> 2 5. is moſt properly ſo ſtiled) where <hi>Abraham, Iſaac,</hi> and <hi>Jacob</hi> muſt then live again, with all the Faithful in their order and time.</p>
+               <p>But that latter ſtare of Chriſts ſaid Mediators Kingdom on Earth, as we noted, was further typified in part by <hi>Joſhua,</hi> though in the better part, under whoſe Cond<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct <hi>Iſrael</hi> obtained their promiſed Inheri<g ref="char:EOLhyphen"/>tance of <hi>Canaan,</hi> wherein <hi>Moſes</hi> carre ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt; but be brought them in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the poſſeſſion of it: Which Reſt was after po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by them, as
+<pb n="12" facs="tcp:47663:8"/>ſaith the Prophet, <hi>Mich.</hi> 2.10. which cauſed by degrees the utter ex<g ref="char:EOLhyphen"/>pulſion of that People from it: Yet as the Apoſtle proveth <hi>Heb</hi> 49. <hi>There remai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ſtill a</hi> (Sabbatiſm, or) <hi>Reſt for the People of God,</hi> with whom <hi>one day is as a thouſand years, and a theuſand years as one day</hi> (as the Apoſtle <hi>Peter</hi> informs us, 2 <hi>Pet.</hi> 3.9) and through the ſaid true <hi>Jeſhu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> or <hi>JES<g ref="char:V">Ʋ</g>S,</hi> this Reſt remairs to the People of God; upon w c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s on all former Sabbaths, the Word and Works of God uſu<g ref="char:EOLhyphen"/>ally were appointed to be conſidered in them (as he was always p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſed in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſix <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oregoing <hi>Millenniums</hi> to give occaſion and command) ſo t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at long conti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned Sabbatiſm or holy Reſt of his people from ſin and ſorrow, will be a time to contemplate on the Word and Works of God, when their great hinderers, <hi>viz.</hi> evil men and Devils, will be re<g ref="char:EOLhyphen"/>moved ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of their way, and all requiſite helps from God, Men, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, will be afforded them, for that long continued Sabbatiſm of that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thouſand years; whence Men and Angels too will be more fitted for perpetual <hi>Hallelujahs</hi> in Heaven afterwards, by ſo much more than they could have been from all that was poſſible to be learned by them to ſuch purpoſe by all they had ſeen, or known or heard before; (as I don't not but might largely be made manifeſt through all the ſix thou (and years of the worlds being before:) Which Sabbatiſm may be thereupon ſitly ſtiled Gods higheſt School to train up his Children of the higheſt form for their beſt employment of their moſt eminent and inlarged praiſing of God through their moſt happy Eternity thence to enſue.</p>
+               <p>In which Reſt or Sabbatiſm Chriſt will infeoff his People, and give them poſſeſſion thereof with himſelf; even as the Father hath appoin<g ref="char:EOLhyphen"/>ted ſuch a Kingdom unto him, ſo he will appoint it unto them, as <hi>Luc.</hi> 22.29. not as a Subſtitute onely, or Type, like <hi>Jeſhua,</hi> to give them their Lots therein; but as Lord of the Inheritance, and by his own Gift; and not as to ſuch as may caſt away, or ſpoil, or loſe their ſaid Inheritance; but as to ſuch as ſhall there find a ſure Reſt and Dwel<g ref="char:EOLhyphen"/>ling Place, from which neither inward nor outward, ſpiritual or tem<g ref="char:EOLhyphen"/>poral Adverſaries ſhall expel them: ſo certainly bleſſed ſhall they be then that partake of that firſt bleſſed Reſurrection, <hi>Rev.</hi> 20.6. when they ſhall be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, like Angels of God in Heaven, as our Savi<g ref="char:EOLhyphen"/>our ſpeaks of thoſe Children of the Reſurrection, <hi>Matth.</hi> 22.30. in that and many other reſpects; and ſuch of the Saints as live in the animal Life then under the Protection of Chriſt the great King, will be as ſafe as his Diſciples were, of whom he ſaid, <hi>Of thoſe which thou gaveſt me, have I loſt none,</hi> John 17. Yea more, his Word ſeems in ma<g ref="char:EOLhyphen"/>ny places to hold out that the Seed of the Righteous ſhall then literally
+<pb n="13" facs="tcp:47663:8"/>and lineally be bleſſed; yea bleſſedneſs ſhall then (it ſeems) be intailed upon them ſucceſhvely, to them, their Seed, and Seeds Seed for ever, as is very remarkably let down at the great Reſtauration of <hi>Iſrael</hi> in <hi>Ezek.</hi> 37. when Chriſt, there called by <hi>David</hi>'s name, as his Type and Progenitor, who by a lineal de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from him ſhall then obtain the long-before-promiſed Right of <hi>David</hi>'s Kingdom, and ſit upon the Throne of <hi>David</hi> his Father, as the Angel told the bleſſed Virgin, <hi>Luc.</hi> 1.32. both Kingdoms of <hi>Iſrael</hi> and <hi>Judah,</hi> being for ever then to be again united into one under him, that then the very Land given un<g ref="char:EOLhyphen"/>to <hi>Jacob</hi> his Servant, out of whoſe Loyns immediately the Heads of all the Twelve <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ribes of <hi>Iſrael</hi> were derived; and therefore it is further added, that Land where their Fathers dwelt, that they alſo ſhall dwell therein; and then add a perpetuity of ſucceſſive inheritance, which onely he who is the abſolute Proprietor, and every way able to make it good, and to make nullities of mens perpetuities as oft as he pleaſeth, He (I ſay) then tells them fully at this period, when <hi>David</hi>'s Kingdom ſhall then be ſo fully reſtored to Chriſt upon the old everlaſting Co<g ref="char:EOLhyphen"/>venant made to their fore-fathers, (which carries all promiſed mercies with it) that they, their Children, and their Childrens Children ſhall dwell in the ſaid promiſed Land for ever, ver. 25, <hi>&amp;c.</hi> And this may further appear by the improvement of Gods promiſe by <hi>Abraham</hi>'s ſaith <hi>Heb.</hi> 11. who (though he over-look'd no dram of promiſed mer<g ref="char:EOLhyphen"/>cy to any of his Seed, even in temporal reſpects) yet his faith, as the Apoſtle teaches, wrought upon the main, that one promiſed Seed [Chriſt] as he is called <hi>Gal.</hi> 3.16. in whom particularly all Nations of the Earth ſhould be bleſſed, which at the ſaid time will be moſt fully and really accompliſhed, in whom he foreſaw (with the others there named) the fulfilling of thoſe promiſes was (then) afar off; and that by vertue of ſuch divine and ſpiritual grace, all temporal good muſt be advanced and enjoyed: Yet his faith fixed ſo upon that ſure Foun<g ref="char:EOLhyphen"/>dation of all bleſſings really good, which will be ſo derived to, and preſerved for all ſuch his ſaid bleſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Seed then, that there will be a wonderful uninterrupted bleſſedneſs at that time continued to them. In ſeeing the accompliſhment whereof, a great meaſure of <hi>Abraham</hi>'s happineſs through Chriſt will (then) actually conſiſt, when he ſhall eminently be Heir of the World actually, by a bleſſed fruition thereof for a long ſeaſon above 1000 years, who as the Apoſtle ſpeaketh <hi>Rom.</hi> 4.13. was in his life time but Heir thereof by faith onely; which yet he was then ſure ſhould not be fruſtrated. Much inlargement might be added to this effect if it were requiſite, and many Divine Rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons given from the Covenant to <hi>Abraham,</hi> and Promiſes repeated to his
+<pb n="14" facs="tcp:47663:9"/>Seed as ſpiritually ſo inveſted with all the temporal bleſſings of the Mediat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs Kingdom, when God and Chriſt are ſo often ſaid to dwell with them, and to ſet his Tabernacle among them, which will carry along with it both the remov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l of evils, &amp; conferring all ſuitable good for that ſtate. We ſhall onely name a few more Promiſes belonging to the ſame ſtate; as <hi>Iſa.</hi> 61. which whole Chapter is a lon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and large prediction and prom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e made to that then-bleſſed Race, for their Fa<g ref="char:EOLhyphen"/>thers ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, (as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s noted by the Apoſtle <hi>Rom.</hi> 11.) yea there alſo by way of diſtinction from the Gentiles, he ſaith verſ. 9. to make it more evident of what generation of men he ſpake, <hi>Their Seed ſhall be known among the Gentiles, and their Off-ſpring among the People;</hi> but for what ſhall they be ſo known? It follows, <hi>All that ſee them ſhall acknowledge them that they are the Seed which the Lord hath bleſſed:</hi> The old intail<g ref="char:EOLhyphen"/>ed Covenant from <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> will then be found of force, and Gods truth and faithfulneſs then acknowledg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; where<g ref="char:EOLhyphen"/>fore the Apoſtle there relates that promiſe, <hi>Iſa.</hi> 59.20. <hi>When the De<g ref="char:EOLhyphen"/>liverer ſhall come out of Sion, and ſhall turn away unged<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ineſs from Jacob,</hi> Rom. 11.26. <hi>So that all Iſrael then</hi> (ſaith he) <hi>ſhall be ſaved:</hi> and v.27. he adds the reaſon thereof; <hi>For this</hi> (ſaith he) <hi>is my Covenant with them, when I ſhall take away their ſins:</hi> So it is the covenanted Mercy of God to that people, which is of ſo large extent, that when as a Founda<g ref="char:EOLhyphen"/>tion-mercy therein, he ſhall turn away ungodlineſs from <hi>Jacob,</hi> and ſo take away their ſins (for onely Godl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs hath the promiſe of this life, and alſo of the world to come) in that he is ſuch a De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iverer that he will firſt work ſuch ſpiritual deliverance in them; the other alſo upon that his ſaid coming, will follow unto the utmoſt extent alſo; for all promiſed temporal mercies in the ſame Covenant contained, even as a ſhadow will follow the ſubſtance of the ſpiritual. And a like Promiſe of the ſame ſtate of Gods <hi>Iſrael,</hi> is given <hi>Iſa.</hi> 66.22. ſpeaking of the New Heavens and the New Earth which ſhall then be and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ain be<g ref="char:EOLhyphen"/>fore him, (which he ſpake alſo of creating, Chap. 65.17. even for that ſaid bleſſed condition) ſo of their poſterities perpetuity in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t happy eſtate, while that world continues: So ſaith he ſhall your Seed and your Name remaine, when wicked men ſhall be deſtroyed aforehand, and their careales ſhall then moſt prob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bly at the <hi>Arm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ggedon</hi> Battel, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Context appears) be an abhorring to all fleſh, verſ. uit.</p>
+               <p>So th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t by what hath been ſaid, it may appear, That though the Reſt which <hi>Joſhu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> brought <hi>Iſrael</hi> into, was by them polluted, as was ſaid <hi>Mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> yet he was a I <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them of their great <hi>Meſſiah,</hi> when he ſhall come to them the ſecond time without ſin unto ſalvation, <hi>Heb.</hi> 9 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t turning away ungodlineſs from <hi>Jacoh,</hi> (as was ſaid) ſo beginning
+<pb n="15" facs="tcp:47663:9"/>his Kingdom of the Mountain, <hi>Dan.</hi> 2.35. and the New <hi>Jeruſalem</hi> ſtate, <hi>Rev.</hi> 21. which is that other Reſt which <hi>David</hi> ſpake of, menti<g ref="char:EOLhyphen"/>oned <hi>Heb</hi> 4.7, 8. which is that Sabbatiſm or Reſt remaining for the peo<g ref="char:EOLhyphen"/>ple of God, verſ 9. called by the Apoſtle <hi>Paul, Reſt with us, when our Lord Jeſus Chriſt ſhall be revealed,</hi> 2 Theſſ 1.7. and all this again <hi>at his appearance and his Kingdom,</hi> 2 Tim. 4.1. wherein the fulneſs and great evidence of holy Scripture appears to theſe purpoſes, and that upon moſt ſure ſoundations, if duly conſidered. See Sir <hi>Rich. Finch</hi> his book, ſetting forth very largely thoſe Promiſes belonging to that an<g ref="char:EOLhyphen"/>cient People of God.</p>
+               <p>There are many other things obſervable in the Parallel of <hi>Moſes</hi> with Chriſt, and ſome others in <hi>Joſhua</hi>'s, which I ſhall here alſo ſet down as follows.</p>
+               <p>Firſt <hi>Moſes</hi> was ordained of God to be a Deliverer of his People; So was Chriſt the great Redeemer of all Gods Choſen, <hi>&amp;c.</hi>
+               </p>
+               <p>Secondly, When <hi>Moſes</hi> was new born, he was in danger of his life by the Edict of <hi>Pharach</hi> King of <hi>Egypt:</hi> So Chriſt when new born, was in danger of his life by the Command of <hi>Herod</hi> a ſtrange King, and forced to flee into <hi>Egypt.</hi>
+               </p>
+               <p>Thirdly, As <hi>Moſes</hi> was wonderfully preſerved, and ſo by a graci<g ref="char:EOLhyphen"/>ous Providence nobly trained up to be fitted for his Office; ſo was Chriſt divinely preſerved from his danger, and fitted for his increaſing in wiſdom and ſtature, ſaith the Evangeliſt, and favour with God and man, <hi>Luc</hi> 2.52.</p>
+               <p>Fourthly, When <hi>Moſes</hi> was grown up, and his Brethren were in great bondage, he ſought to deliver them; but they rejected and be<g ref="char:EOLhyphen"/>trayed him, but owned him not for their Deliverer: So Chriſt coming in the fulneſs of time, was not received by his own people, <hi>John</hi> 1. but they took counſel againſt him, to reject and betray him; and actu<g ref="char:EOLhyphen"/>ally killed the Lord of Life, who came to deliver them from Death.</p>
+               <p>Fifthly, When <hi>Moſes</hi> was thereupon removed into a far Countrey, there he had <hi>Jethro,</hi> Prince or Prieſt of <hi>On,</hi> a loving and wiſe Fa<g ref="char:EOLhyphen"/>ther, having taken his Daughter a ſtranger to Wi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> So Chriſt after the Jews rejection and betraying of him, went in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a far Co<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ey, as he ſpeaketh. <hi>Luc.</hi> 19. to ſit at the Right Hand of his leavenly Father; and upon his own peoples rejecting of him as their God or Red<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emet, <hi>Acts</hi> 13. he eſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſeth to himſelf the ſtrangers of the Gentiles to be his Church or Spouſe, during his former peoples <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtrangement from him.</p>
+               <p>Sixthly, But when the fulneſs of time was come, that God would m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke <hi>Moſes</hi> his Peoples Deliverer, he divinely, gr<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſly and wonder<g ref="char:EOLhyphen"/>fully
+<pb n="16" facs="tcp:47663:10"/>reveals himſelf to him, ſends him on that his Errand, furniſheth him with divine power, conrage, gifts, aſſiſtance, and above all guides him by his own counſel in the management of all, how and what courſe he ſhould ſtear, or means he ſhould uſe, what particular miracles he ſhould work from time to time, and ſhews him what ſucceſs or want of ſucceſs he ſhould have; and ſo <hi>Moſes</hi> did all by Gods appointment in that whole work of bringing his People the Children of <hi>Iſrael</hi> out of <hi>Egypt;</hi> in which work afterwards in the Wilderneſs he was Gods faithful ſervant in all his Houſe, <hi>Heb.</hi> 2. in all the time he led them in the Wilderneſs: So when the time was come that the Father by his Spirit had declared in his Prophets that his Son ſhould be the Delive<g ref="char:EOLhyphen"/>ter of his People, and as he h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d likewiſe typifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and many ways ma<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>feſted to them, he accordingly undertook that work, with that ful<g ref="char:EOLhyphen"/>neſs of wiſdom, grace, and of his Spirit and power, from the Father, and had the falneſs of his love ſo always coutinued unto him, that he de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied him nothing he asked, yea he had ever fully manifeſted his whole pleaſure to him; and in him and by him all things were accor<g ref="char:EOLhyphen"/>dingly fulfilled to deliver his People from their ſins being the bondage of their ſpiritual <hi>Pharaoh</hi> and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſe than Egyptian bondage; and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll come as the great Meſſiah of his ancient People in ſpecial, and wonderfully ſave thoſe that are beloyed for their Fathers ſake, with a greater deliverance from the Land of the North, than the former from <hi>Egypt</hi> was, <hi>Jer.</hi> 23.7, 8. ſpiritually, temporally, eternally, <hi>&amp;c.</hi> So <hi>Jer.</hi> 3 14 18 alſo <hi>Iſa</hi> 53.10. &amp; 66 14, 15. <hi>Ezek.</hi> 37. the weole chap<g ref="char:EOLhyphen"/>ter, <hi>&amp;c.</hi> which deliverance now haſteneth, <hi>&amp;c.</hi>
+               </p>
+               <p>Seventhly, What under <hi>Moſes</hi> miniſtration <hi>Iſrael</hi> came ſhort of obtaining, under <hi>Joſhua</hi>'s Conduct, the other Type of Chriſt, they ſoon after enjoyed; but yet only as the Lieutenant (as I may ſay) of that Grand Captain of the Lords Hoſt, that appeared to him, <hi>Joſh</hi> 5.13, 14, 15. from whom then he received his particular order for the be<g ref="char:EOLhyphen"/>ſieging of <hi>Jericho,</hi> with incouragement therein, <hi>&amp;c.</hi> And who by Gods divine ordering of his Lots, afterwards aſſigned to every Tribe their portion, called in Scripture, <hi>The Lot of their Inheritance:</hi> So it is from Chriſt the grand Captain of his Peoples ſalvation, not from any ſtrength, works, or worth of their own in any reſpect, that they ob<g ref="char:EOLhyphen"/>tain any mercy or favour from God: But through the grace, power, and merit of their true <hi>Joſhua</hi> or JESUS, always both able and wil<g ref="char:EOLhyphen"/>ling, and ever remains preſent in readineſs to conduct them through their Wilderneſs condition in this World, even when they are at the greateſt ſtand, and who can in the moſt unlikely manner, and by the moſt contemptible means (as by Rams-Horn Trumpets he deſtroyed
+<pb n="17" facs="tcp:47663:10"/>high-walled <hi>Jericho</hi>) confound or deſtroy the greateſt Enem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of his People, (as he is now conſuming the great Beaſt and falſe Prophet by the propheſying of his deſpiſed fackcloth-Witneſſes, <hi>Rev.</hi> 11.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>heſ.</hi> 28) and will in his appointed time bring his Pilgrims into poſſeſſion of their happy promiſed Reſt that remains to them and all the faithful fore-fathers into the City prepared for them, with other Saints, of which God is the Maker and Builder himſelf, <hi>Heb.</hi> 11.10 as in mani<g ref="char:EOLhyphen"/>fold promiſes he hath through many Ages in his word declared; when likewiſe will begin his Kingdom of the Mountain, which ſhall fill the whole Earth, when all Nations ſhall ſerve and obey him, <hi>Dan.</hi> 7.27, <hi>&amp;c.</hi> with many other holy Scripture-Teſtimonies, which might here be added if it were needful.</p>
+               <p>Proceed we then to the third pair of partial Types in the N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w World, <hi>viz.</hi> Of <hi>David</hi>'s Kingdom raiſed by God from a low beginning, to become great, like the great men of the Earth, as God ſpeaketh of it, 2 <hi>Sam</hi> 7. though as a man that ſhed much blood, in a warring con<g ref="char:EOLhyphen"/>dition, till God gave him peace in the end, <hi>&amp;c.</hi> And of <hi>Solomon</hi>'s Kingdom, that peaceful Prince, when his Subjects were ſaid to ſit un<g ref="char:EOLhyphen"/>der their own Vines, and under their own Fig. Trees; though by the cloudy darkneſs of both their falls, they were manifeſt to be onely Types of their moſt perfect Antitype.</p>
+               <p>And firſt of the firſt of them, namely of <hi>David</hi>'s Kingdom ſet up by God; wherein Chriſt was typified in theſe reſpects:</p>
+               <p n="1">1. As <hi>David</hi> was low and mean at firſt; <hi>I took thee</hi> (ſaith God to him) <hi>from the Sheepſold</hi> 2 Sam. 7 8. So Chriſt at his firſt appearing in the worlds view, taking our nature, was little regarded of them, cal<g ref="char:EOLhyphen"/>led commonly, <hi>The Son of Joſeph and Mary,</hi> and afterwards diſgrace<g ref="char:EOLhyphen"/>fully. <hi>The Galilean,</hi> from which Countrey they expected no good to come, and another while reputed him the Carpenters Son; and even his own Kindred believed not on him; though eſpecially amongſt them, both before his birth, at his birth, and afterwards, glorious and radiant Beams of Divine Majeſly wonderfully ſhone out in him, where<g ref="char:EOLhyphen"/>by God evidently manifeſted, and wrote as it were with a ſun beam of Light as was alſo plainly told) That that Child before promiſed and propheſied ſo often to come, was his own and onely Son.</p>
+               <p n="2">2. After <hi>David</hi>'s Kingdom began, there was at firſt no outward probability appearing to ſtand againſt King <hi>Saul;</hi> ſaving that <hi>Saul</hi> was rejected, and <hi>David</hi> was by Gods appointment anointed by <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> for the Kingdom: But otherwiſe, in outward reſpects, <hi>Saul</hi> was in poſſeſſion, had the preſent command of all his Subjects, and of all
+<pb n="18" facs="tcp:47663:11"/>they had in the world outwardly; but <hi>David</hi> forced to flee for his life, manleſs, monyleſs, helpleſs in a manner, ſaving onely not faithleſs nor hopeleſs; but for outward appearance of means very poor and mean. He after had men, but ſuch as could in appearance yield him little com<g ref="char:EOLhyphen"/>fort, afford him little relief; we hear not of their Money nor Arms; yea, it appears they were men in debt, and in decayed conditions, how ſhould they live? They fled to him in a Wilderneſs, where ſhould they have Arms? And had they had them, what skill were they like to have to uſe them? Wha intereſt could ſuch have in men that were conſi<g ref="char:EOLhyphen"/>derable, ſaving ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as might cauſe them to purſue them for their debts or for leaving their Maſters ſervice (as <hi>Saul</hi> affirmed) which muſt make <hi>Dav d</hi>'s firſt eſtate appear to be the be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nning of a very pi<g ref="char:EOLhyphen"/>tiful Principality. So when the uſurping god of this preſent world, and that moſt tyrannous Prince of the power of the Air, was by Chriſt to be thrown down from his Regency, after his ſo long and mani<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old rebellion againſt his Creator; and Gods anointed King which he had decreed (mangre all the vain oppoſition of Mon and De<g ref="char:EOLhyphen"/>vils) ſhould ſit upon h s holy Hill of <hi>Sion Pſal.</hi> 2. vet he comes into the world in the form of a Servant, was born of a Mother a Virgin, but in a preſent mean condition, though inwardly glorious in holineſs and grace, though lineally deſcended from the Loyns of King <hi>David,</hi> yet that was a thing little then obſerved or regarded by moſt at that time; a Carpenter being her Husband, and the reputed Father of Chriſt our Saviour, as little acknowledged, 'tis probable, to be the Son of God: Therefore Chriſt being in our weak nature, in ſuch a low condition, the world was uncapable of diſcerning or conceiving how he ſhould be able to overcome that old <hi>Beelzebub,</hi> the Prince of the Devils, with all his Principalities, and powers of ſpiritual wicked<g ref="char:EOLhyphen"/>neſſes in high places.</p>
+               <p n="3">3. When the envy and malice of <hi>Saul</hi> was grown ſo great againſt <hi>David,</hi> that by force or fraud, by policy or treachery, or by any means poſſible to rid <hi>David</hi> out of his way, by his Daughter, by his Servants, by the <hi>Philiſtines,</hi> his Javelins, his Son <hi>Jonathan;</hi> or by <hi>Doeg,</hi> and other bad Inſtruments of <hi>Saul</hi>'s Court; or whoever was <hi>David</hi>'s Enemy, was thereupon to be owned as <hi>Saul</hi>'s Friend: Yet God ever preſerved <hi>David</hi> from all his attempts, by ſtrange and unlikely ways and means, as the ſacred Story therein declares. So as ſoon as Chriſt ap<g ref="char:EOLhyphen"/>pears in the World, Satan from a Divine Oracle of Chriſts birth at <hi>Bethlehem</hi> the City of <hi>David,</hi> tempts <hi>Herod</hi> upon that ac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ount to ſeek to take away his life then, as was noted, ſtirs up many ſlightings of his Perſon, Parentage, Kindred and Countrey; then when he appea<g ref="char:EOLhyphen"/>red
+<pb n="19" facs="tcp:47663:11"/>more publick, ſets upon him in hunger to tempt God; from am<g ref="char:EOLhyphen"/>bition of a world, to worſhip the Devil, <hi>&amp;c.</hi> But ſtill Chriſt over<g ref="char:EOLhyphen"/>came that ſtrong man armed, being ſtronger than he, when he appear<g ref="char:EOLhyphen"/>ed the weakeſt.</p>
+               <p n="4">4. As <hi>David</hi> by ſuch weak and unlikely inſtruments overcame or fruſtrated <hi>Saul,</hi> aſſaults: So Chriſt by poor Fiſhermen ſubdued the World to the obedience of the Goſpel, thereby making them Fiſhers of men, and himſelf to be owned as the Saviour of mankind, by thoſe they were ſent unto, conquering and to conquer in the firſt Seal, <hi>Rev.</hi> 6. and ſo through the following Seals till <hi>Conſtantines</hi> coming, about <hi>anno</hi> 320 all that time where n <hi>Michael</hi> ſought with his Angels againſt the Dragon and his Angels, who prevailed not, <hi>Rev.</hi> 12 7 8. when thoſe poor perſecuted Chriſtians then converted to the fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſt (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat are ſtor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to be ſtrongly then encouraged by the Doctrine of reigning with Chriſt the thouſand years) ſuffered with ſuch unſhaken ſaith and conſtant patience, and gloriouſly overcame that moſt devilliſh cruel<g ref="char:EOLhyphen"/>ty and tyranny of their bloody Perſecutors in the Ten firſt Paganiſh Perſecutions, till the Dragon was caſt out of his Heaven to the Earth: Since which time he could not by ſuch perſecuting turn Chriſtians into Pagans, he hath attempted by iving his Seat, Power, and Authority to the Beaſt, to Paganize Chriſtianity it ſelf, and under many deviſed pretexts of Piety and Devotion by means of his ſaid Subſtitute in his ſeat and authority, to act in deteſtable hypocr ſie, in ſuch horrid wick<g ref="char:EOLhyphen"/>edneſſes againſt God and man, that cannot appear in their true colours without ſome Vail of Hypocriſie caſt over them Whence it was an<g ref="char:EOLhyphen"/>ciently obſerved ſince that time, <hi>Sub nomine Chriſti militant contra Chriſtum;</hi> and after, when in a more intenſe degree tha was apparent, complaint thereof was made, not without juſt cauſe, <hi>In nomine Domi<g ref="char:EOLhyphen"/>ni incipit omne malum:</hi> which how manifold it is, and by what cun<g ref="char:EOLhyphen"/>ning Contrivance, with paganiſh Cruelty carried on, would require a large volumn but even fitly to ſet down in what large volum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s it is al<g ref="char:EOLhyphen"/>ready done. And yet Chriſt by his poor Saints ſufferings, and his de<g ref="char:EOLhyphen"/>ſpiſed Sackcloth-Witneſſes propheſying hath and doth, and will over<g ref="char:EOLhyphen"/>come more and more both Dragon, and B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt, and falſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rophet alſo, by whom the other was revived after his former deadly wound, unto their laſt deſtruction come, and both are ſent unto their own p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, when Chriſt will moſt eminently make his Foes his Footſtool, and the Kingom of the Stone be changed into the Kingdom of the Moun<g ref="char:EOLhyphen"/>tain, in the next partial Type, with this of <hi>David,</hi> to be now conſi<g ref="char:EOLhyphen"/>dered.</p>
+               <p>And that is in <hi>Solomon, David</hi>'s natural Seed, derived immediately
+<pb n="20" facs="tcp:47663:12"/>from his Loyns, as promiſed to <hi>David,</hi> named by God, owned by him in a gracious manner, appearing to him twice, making him large of<g ref="char:EOLhyphen"/>fers, giving him unparallel'd Gifts of Wiſdom and Knowledge, emi<g ref="char:EOLhyphen"/>nent Grace, tranſcendent worldly Glory, Dignity, Riches and Reve<g ref="char:EOLhyphen"/>nues, on the face of the earth; admired far and near, moſt famous for building the moſt glorious Temple or Houſe of God, and other Hou<g ref="char:EOLhyphen"/>ſes, and in writing excellent Books of holy Scripture, and many other Books: But that he was but a Type of <hi>David</hi>'s bleſſed Seed to come in the Kingdom of the Mountain, may appear by his ſo ſad declining for a time towards his elder years; yet a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter, through grace, returned. But that he was his Type, his Name denotes, his Office, his Works, his Wiſdom, his Peace, his Glory, Wealth, and Dignity, his Religion, his executing of Judgment, his Peoples Peace, Plenty, Security, under him, <hi>&amp;c.</hi> whilſt he walke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wiſely, and ſtood upright, do abundantly declare. And in regard we are to conſider the great Char<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> and <hi>Solomon</hi>'s Kingdom, in the next place, we ſhall here adde no more, but come to our next foundation.</p>
+               <p n="7">VII. Seventhly, Which is the ſeventh, as being confirmed both to <hi>David</hi> and <hi>Solomon</hi> by a Divine Charter, very eminently illuſtrated 2 <hi>Sam.</hi> 7.8. to the end, in that moſt gracious Meſſage that God ſent by <hi>Nathan,</hi> upon occaſion of <hi>David</hi>'s ſecret intent and purpoſe to build God an Houſe, for which he made great proviſion; which though it was not in particular accepted, for ſome reaſons afterwards ſpecif<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d in the ſequel, yet God ſo approved of his pious affections of love <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o his Divine Majeſty, and Zeal for his Glory and Worſhip, that there<g ref="char:EOLhyphen"/>upon he made to <hi>David</hi> the moſt bleſſed return of Love, and Riches of Goodneſs to him and his Houſe, with the longeſt Entail w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th it, and ſureſt ſecurity of it, that ever was made to any meer mortal man: We may here obſerve, firſt the ſaid Meſſage of God, from verſ. 8. to 17. concerning Gods ſure mercies to <hi>David,</hi> in reſpect of his King<g ref="char:EOLhyphen"/>dom, People, and Houſe: Secondly. We may note <hi>David</hi>'s improve<g ref="char:EOLhyphen"/>ment of each part of the Divine Meſſage by Faith, Prayer, and thank<g ref="char:EOLhyphen"/>ful Acknowledgment, from verſ. 17. to the end.</p>
+               <p>Firſt, In Gods Meſſage, verſ. 8. He directs the Prophet <hi>Nathan</hi> to make to <hi>David</hi> a rehearſal of mercies paſt; namely, How he exalted him from a low eſtate, even from the Sheep-coat, from following the Sheep, to an excellent Dignity; not onely to be a Ruler in ordinary way, but that which added much to his exaltation and honour, was, he let him over his own People, even over <hi>Iſrael,</hi> choſen out of the whole World for his own Inheritance: This ſpecial truſt God com<g ref="char:EOLhyphen"/>mitted
+<pb n="21" facs="tcp:47663:12"/>to <hi>David,</hi> to whom great Priviledges did belong, and for whom great things formerly had been done by God, upon whom his Name was called.</p>
+               <p>Secondly, Verſ. 9. He minds him how he had been with him in a ſpecial manner in a way of grace, to wit, to be for him, and againſt his Enemies; and ſo effectually as to cut them all off in his own ſight, and that thereupon he had made him a great Name, as the great Men that are upon the Earth.</p>
+               <p>Thirdly, Verſ. 10. He ſets down (as in a Parentheſis) a moſt won<g ref="char:EOLhyphen"/>derful mercy promiſed to his ſaid People, long after to take place, and to be in fulfi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling to the end of the world: ſaying, <hi>I will appoint a place</hi> (not what he had done before, or unto that time (as afterwards is explained) <hi>for my people Iſrael, and I will plant them;</hi> but how? Firſt <hi>that they may dwell in a place of their own,</hi> (for formerly they drove out others, though but as Gods Inſtruments, yet with many failings, and then by their ſins they forfeited their own intereſt therein:) Se<g ref="char:EOLhyphen"/>condly, He declares they ſhould <hi>move no more;</hi> which ſettlement then muſt needs be yet to come, the ſame with <hi>Ezek.</hi> 37. and many other pro<g ref="char:EOLhyphen"/>miſes: Thirdly, <hi>The Children of wickedneſs ſhould not,</hi> in that Land which he promiſeth, <hi>afflict them any more,</hi> (which hath not hitherto been fulfilled) formerly ſuch Children of wickedneſs, which in their d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſobedience to God they ſpared, were in judgment made Thorns in their Sides, and pricks in their Eyes, to chaſtiſe them; and other ſone of wickedneſs, by reaſon of their many provocations, greatly from time to time, before and till <hi>David</hi>'s time, afflicted them, as before time in <hi>Egypt,</hi> and in the Wilderneſs, as the end of verſ. 10. ſeems to in<g ref="char:EOLhyphen"/>tend, — <hi>as before time.</hi>
+               </p>
+               <p>And verſ. 11. in the beginning of it, he adds another diſtinct time of the prevailing of ſuch Sons of Wickedneſs over them: <hi>And</hi> (ſaith he) <hi>as ſince the time that I commanded Judges to be over my people:</hi> And that he might the better take notice of his own ſo good different ſtate at preſent, and from whence it came, he ſhews to him again that he himſelf had <hi>cauſed him to reſt from all his Enemies.</hi>
+               </p>
+               <p>And in the end of verſ. 11. he appoints <hi>Nathan</hi> to deliver a further Meſſage of wonderful grace concerning <hi>David</hi>'s own Houſe; ſaying, <hi>Alſo the Lord tells thee</hi> [there was his inſallible ſecurity] <hi>that he will make thee a ſure Houſe;</hi> which muſt needs be a ſure Houſe, when God both tells him ſo, and tells him he will make it ſo: Greater certainty could not be; Therefore rightly is this ſtiled, <hi>The ſure Mercies of David.</hi>
+               </p>
+               <p>Verſ. 12. concerns Gods promiſe to be fulfilled after <hi>David</hi>'s death,
+<pb n="22" facs="tcp:47663:13"/>concerning his Son <hi>Solomon,</hi> as is applied by <hi>Solomon</hi> himſelf, 1 <hi>Kings</hi> 2.24. <hi>The Lord</hi> (ſaith he) <hi>hath made me an Houſe, as he promiſed;</hi> which promiſe follows in this 12th verſe, <hi>I will ſet up thy Seed after thee, which ſhall proceed out of thy own bowels; and I will eſtabliſh his Kingdom:</hi> which muſt be his immediate Seed. Beſides, he was deſigned by God to build that Houſe for Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is Name which <hi>David</hi> purpoſed, till God now declared his pleaſure therein to him, to the contrary, which was accordingly executed, as <hi>Solomon</hi> acknowledged, as was noted be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>And verſ. 13. latter part, God addes a wonderful mercy, That <hi>So<g ref="char:EOLhyphen"/>lomon</hi> the Type of Chriſt, whoſe Kingdom in his days ſhould be a Type of Chriſts Kingdom, ſhould build that Houſe that ſhould prefigure the Body of Chriſt; till he came in the fleſh and fulfilled all that was ſig<g ref="char:EOLhyphen"/>nified in and by that Houſe and Prieſthood exerciſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therein, whereby it ſeems to be ſignified, That that Houſe which he built, and the Ser<g ref="char:EOLhyphen"/>vices to be upheld in it, ſhould typifie to his People his glorious Per<g ref="char:EOLhyphen"/>ſon and work of Redemption to be wrought by him for them, where the Ark of Gods gracious Preſence with his People was at that time preſerved: Which Temple, though afterwards it ſhould be deſtroyed for their great ſins and provocations, and the Ark of Gods gracious preſence be taken away from among them; yet the Temple ſhould afterward by the wonderful power and grace of God be again re-built, as <hi>Iſaiah</hi> fore-told, and was (as we rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>Ezra</hi> and <hi>Nehemiah</hi>) accor<g ref="char:EOLhyphen"/>dingly fulfilled: by the former denoting the death of Chriſt bodily, which he ſuffered for his Peoples ſins; and by the latter, that divinely powerful and glorious Reſurrection of Chriſt from that death of the Body. Which ſaid ſecond Temple, by the divine work of God upon the ſpirit of <hi>Cyrus,</hi> being ſo rebuilt, ſhould ſo continue (onely after repaired and adorned by <hi>Herod</hi>) thenceforward many hundred years, until all things were ſully accompliſhed by him who was before ſo long time, and many ways before-typ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied by it; at the death of whoſe b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy, the Vail of that Temple actually was rent from top to bottom, where<g ref="char:EOLhyphen"/>with <hi>Moſes</hi> vailed Goſpel of Ceremonial Worſhip ceaſed, and upon whoſe Reſurrection and A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cention the <hi>Goſpel of the Son of Mans King<g ref="char:EOLhyphen"/>dom</hi> was ſpeedily, and powerfully, and evidently preached by the com<g ref="char:EOLhyphen"/>miſſionated Embaſſadors of Chriſt through the whole world; when alſo the Kingdom of the Stone fore-told in <hi>Daniel</hi> d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d begin, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſpiritual Throne and Kingdom of Chriſt was ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up, and hath, and is, and will be powerfully upheld, while Chriſt in the Goſpel rideth o'n conquering and to conquer, as he began under the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt Seal, till he eminently, when he ceaſeth to ſit at his Fathers Right hand in Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="23" facs="tcp:47663:13"/>
+                  <hi>Pſal.</hi> 110.1. ſhall make his foes his footſtool; and thenceforward gloriouſly and powerfully on <hi>David</hi>'s and <hi>Solomon</hi>'s Throne (as here promiſed) in the Kingdom of the Mountain, to the worlds end and la Judgment, <hi>Dan.</hi> 2 35. And ſo the great King of the New <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> will undoubtedly ſucceed lineally from them both, in whom the Houſe and Throne of the Kingdoms of both ſhall be eſtabliſhed for ever, as in <hi>Pſal</hi> 45. is largely illuſtrated with many excellencies belonging to the g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orious ſtate of the <hi>Meſſiah</hi>'s Kingdom with his Saints, his Spouſe ſtiled the Kings Daughter, and gloriouſly there deſcribed and enfe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffed with her Dowry, very divinely in a great part of that Pſalm.</p>
+               <p>But verſ. 14, 15. In regard God fore-knew <hi>Solomon</hi> would greatly fall by his own hainous ſins, which would deſerve great Judgments; even as the great <hi>Meſsiah</hi> was firſt to ſuffer and ſatisfie for <hi>Solomon,</hi> before the viſible glory of his Kingdom ſhould ſhine forth, and for all penitent and truly believing perſons; and that therefore God fore-ſhews how he would fatherly chaſtiſe <hi>Solomon,</hi> but not take his mercie from him, as he took it from <hi>Saul,</hi> (which is a very evident proof that <hi>Solomon</hi> was ſaved) and ſecondly typifying therein that Chriſt ſhould be ſaved in his ſuffering for mans ſin, and overcome death by dying, in regard that Chriſt ſhould perſonally come in the fleſh to that end, which was ſignified by that Houſe which was to re<g ref="char:EOLhyphen"/>main then in its uſe; and that till then, thoſe ſervices to be performed in that houſe did de note that work of Redemption of his people which he was to accompliſh at that his coming, whereby full Reconciliation ſhould be made with God for them, and then that ſaid Houſe, and the ſervices therein performed, were thereupon to ceaſe: Therefore in verſ. 16. the laſt of Gods ſaid Meſſage to <hi>David</hi> by <hi>Nathan,</hi> he twice confirms the perpetuity of the ſaid Mercy, not onely to ratifie the ſureneſs thereof, as is uſual in holy Scripture, as in the four Mettle-Kingdoms, <hi>Dan</hi> 2. and 7. and the four Beaſts, but it ſeems in verſ. 16. he firſt through the ſaid Reconciliation made when he put an end to the ſervices of the ſaid Houſe, whereby the influence of all promiſed mercies to the Saints reached in all Ages to them, ſets down there over and over for <hi>David</hi>'s comfort, this that concerned Chriſts <hi>Davi<g ref="char:EOLhyphen"/>dical</hi> Kingdom of the thouſand years Reign with the Saints, that it ſhould be <hi>BEFORE DAVID;</hi> that is, at the bleſſed and holy Reſur<g ref="char:EOLhyphen"/>rection of the Juſt, <hi>Rev.</hi> 20.6. when <hi>David</hi> and <hi>Daniel</hi> ſhall ſtand up in their Lots,; though there was a Reſemblance of it, as ſome ob<g ref="char:EOLhyphen"/>ſerve, in that <hi>Solomon</hi> was in the Throne before <hi>David</hi> died: Yet this promiſe is of tranſcendent excellency above that matter; neither did
+<pb n="24" facs="tcp:47663:14"/>that ſtate laſt for ever, <hi>i. e.</hi> to the worlds end, which is ſo many times inſiſted upon, both from Gods Riches of Mercy towards <hi>David,</hi> and <hi>David</hi>'s une preſſible gratitude (as he ſaid verſ. 20) due unto God: Wherefore he ſpeaks in ſuch a full comprehenſive manner, verſ. 16. <hi>Thy Houſe and thy Kingdom ſhall be eſtabliſhed for ever BEFORE THEE:</hi> and again. <hi>Thy Throne ſhall be eſtabliſhed for ever;</hi> which is onely poſſible in Chriſt, and in him is neceſſary, according to that prophecy <hi>Iſa.</hi> 9.7. <hi>That of the increaſe of his Government there ſhould be no end, upon the Throne of David, to order it and to eſtabliſh it with judgment and with juſtice from henceforth even for ever:</hi> And the reaſon hereof is very re<g ref="char:EOLhyphen"/>markable: <hi>The zeal of the Lord of Hoſts will perform this;</hi> his Truth, his Faithfulneſs will n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t lie unto <hi>David,</hi> for whom he hath this ſure mercy to perform, to raiſe up his Tabernacle which was fallen, as <hi>Acts</hi> 1.5. is explained: and as the Angel told the bleſſed Virg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. <hi>Luc.</hi> 1.23, 3.3. <hi>The Lord ſhall give unto him the Throne of his Father David:</hi> The Scripture is ſo full in this point, that if mens eyes be not ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, it is obvious to be ſeen. And thus much of Gods meſſage by <hi>Nathan.</hi>
+               </p>
+               <p>Now from verſ. 17. to the end of the Chapter, we have <hi>David</hi>'s moſt grateful acceptance of the ſaid Meſſage, and very pious improve<g ref="char:EOLhyphen"/>ment of it by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith, prayer, acknowledgment and thankfulneſs, and well might he do ſo, ſeeing he ſo well underſtood, and ſo fully believed every branch by the tea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing of Gods Spirit, and every particular therein contained, <hi>viz.</hi> That he ſhould have a Kingdom, and ſuch a Kingdom confirmed to him, and not to him alone, but to him and his People of <hi>Iſrael,</hi> and for them with his Seed; and not to his notural Seed onely, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſuch, coming out of his own Bowels, but as typical of a Seed and Kingdom divine and be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>venly, to be given in a wonderful manner, and as he ſaith verſ. 19. <hi>for a long time to come,</hi> and upon ſuch ſecurity from God himſelf, who undertook to do it himſelf, with the greateſt aſſurance imaginable, yea above all imagination or capacity of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eatures, in ſuch a way, under ſuch Types, in ſuch order, time and manifold miraculouſneſs, that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all men and all Creatures ſhould joyn all their Skill and Power, Wealth. Strength, and Intereſts, to confer a Kingdom upon a Perſon, by right of Covenants, Purchaſs, Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rter, Proweſs, Pol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy, Prudence, Conqueſt, Merit, or whatever they could contrive or procure to ſuch intent, it would be but nullity inſtead of ſecurity, compared with this, and not worthy even to be named in the ſame day with it: Yea mens Kingdoms on the contrary, the greater they are, are therefore many times the more uncertain and tottering. Whereas this, in the greateſt extent, ſhould be the moſt ſtable, be<g ref="char:EOLhyphen"/>ing
+<pb n="25" facs="tcp:47663:14"/>founded in Righteouſneſs, which is the habitation or ſtability of Chriſts Throne, <hi>Pſal.</hi> 97.2. whilſt the greateſt combination of men and creatures to uphold by any means Kingdoms and States in unrigh<g ref="char:EOLhyphen"/>teouſneſs againſt God and his People, do thereby the ſooner bring them to their periods, and by ſuch means oft-times more certain ruine befalls them, as in <hi>Nebuchadnezzars</hi> great Monarchy, whether we look upon him perſonally, as that great Tree then flouriſhing, <hi>Dan</hi> 4. but ſuddenly cut down, under whoſe Branches all Creatures (then) ſhel<g ref="char:EOLhyphen"/>tred themſelves; or lineally, which ended in his Granchild <hi>Belſhazzar, Dan.</hi> 5. as that Kingdom was then the Head of Gold, in reſpect of the other Mettle-Kingdoms ſucceeding it, even ſo it was but of ſhort continuance for that reaſon, <hi>Dan.</hi> 5.20, 21, 22, 23. for ſome of the ſaid ſhort continuance: But ſuch a title, and of ſo long continuance, yea ſuch a ſecure perpetaity God paſſeth over by his Divine Charter to <hi>David</hi> his Seed and People here, of that his moſt excellent Kingdom in the world (that though in ſome ſence it ſhould be interrupted for a time) yet ſhould certainly ſtand good in due time to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, when all meerly worldly Monarchies ſhall be worn out, yet that ſhould remain for ever, as often was repeated, even to the worlds end; the like aſ<g ref="char:EOLhyphen"/>ſurance was never made before <hi>David</hi>'s time, never ſince, of any King<g ref="char:EOLhyphen"/>dom in the world, nor ever will be, when that univerſal viſible Domi<g ref="char:EOLhyphen"/>nion ſhall hereafter begin to take place in the world, (as it was ſaid of it, <hi>Dan.</hi> 2.28) it never ſhall be deſtroyed in the world, but be tranſla<g ref="char:EOLhyphen"/>ted into, or perfected in celeſtial Glory: And therefore it is no mar<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il that holy <hi>David</hi> from ſuch Divine Illumination, and from ſuch ſuitable ſtrength of faith, doth anſwerably (as we hinted) receive with humble acceptation and inlarged thankſulneſs and acknowledgment, that bleſſed news thereof from God, and accordingly improve it as follows.</p>
+               <p n="1">1. For verſ. 18. In the firſt place <hi>David</hi> retires himſelf into the a<g ref="char:EOLhyphen"/>lone preſence of his moſt gracious God, and in a moſt humble manaer acknowledgeth before him his wonderful mercy and goodneſs to him<g ref="char:EOLhyphen"/>ſelf and his Houſe, both paſt and preſent: <hi>Who am I</hi> (ſaith he) <hi>O Lord God! And what is my Houſe, that thou haſt brought me hitherto!</hi>
+               </p>
+               <p n="2">2. In verſ. 19. He ſets it forth for the time to come, further obſer<g ref="char:EOLhyphen"/>ving and explaining the long continuance thereof, not to himſelf alone, but to his Houſe, upon a moſt true and certain perpetuity, upon the beſt ſecurity, in an unparalled manner; (for his words are weighty) ſaying, <hi>And yet this was a ſmall thing in thy ſight, O Lord God, but thou haſt ſpoken alſo of thy Servants Houſe for a great while to come,</hi> viz. whiſe time ſhall continue, which he revolves again with a holy admira<g ref="char:EOLhyphen"/>tion,
+<pb n="26" facs="tcp:47663:15"/>— <hi>And is this the manner of Man, OLORD GOD!</hi>
+               </p>
+               <p n="3">3. In verſ. 20. he declares that he was at a loſs for verbal expreſſi<g ref="char:EOLhyphen"/>ons of due thankfulneſs for his mercies, but tenders his inlarged heart to Gods view, ſaying, <hi>And what can David ſay more unto thee? For thou, Lord God, knoweſt thy Servant.</hi>
+               </p>
+               <p n="4">4. In verſ. 21. he illuſtrates, in his wayof gratitude, the truth of Gods promiſe, the reeneſs of his mercy to him, with the greatneſs thereof in all reſpects, in all thoſe great things which were ſtill illuſtra<g ref="char:EOLhyphen"/>ted by their preſent manifeſtation of them unto him: — <hi>To make</hi> (ſaith he) <hi>thy Servant to know them.</hi>
+               </p>
+               <p n="5">5. In verſ. 22, 23, 24. he farther illuſtrates with his own, Gods won<g ref="char:EOLhyphen"/>derful glorious and rich mercy to his people of <hi>Iſrael;</hi> firſt for time paſt, magnifying the greatneſs of the unparallelled mercy of God to them, extolling him above all gods, and as the onely true God, and that he had proved himſelf ſo by his works, recorded in his word, or related by his people, verſ. 22. <hi>Wherefore thou art great, O Lord, and there is none like thee,</hi> &amp;c.</p>
+               <p>And verſ. 23. He ſets forth the great honour he had procured to his people of <hi>Iſrael,</hi> by ſigns and wonders for them, <hi>&amp;c.</hi> whom he re<g ref="char:EOLhyphen"/>deemed out of <hi>Egypt,</hi> that in them he might be glorified above the heathen gods, <hi>&amp;c.</hi>
+               </p>
+               <p>And in verſ. 24. He gratefully rehearſeth his now-confirmed mercy to his people of <hi>Iſrael</hi> for perpetuity, and his Covenant renewed with them to be their God; as with <hi>Abraham.</hi> Gen. 17.7, 8. ſo now to them by the Meſſiah the Son of <hi>David,</hi> much after the ame tenure of words; even as this Meſſage is much the ſame with that recorded in 1 <hi>Chron.</hi> 17 7, 8, 9, <hi>&amp;c.</hi>
+               </p>
+               <p n="6">6. Now as to verſ. 25. <hi>David</hi> had made his graceful acknowledge<g ref="char:EOLhyphen"/>ment of ſo tranſcendent a mercy to Himſelf, his People, and Houſe; ſo now he proceeds further to improve it by frith and prayer, verſ. 25, 26. And firſt joyntly for Himſelf and his Houſe, verſ. 25. <hi>Now O Lord, eſtabliſh thy word for ever concerning thy Servant, and concerning his Houſe, and do as thou haſt ſaid.</hi>
+               </p>
+               <p>And then verſ. 26. He adjoyns Gods Covenant with his people of <hi>Iſrael,</hi> to be their God for ever, with his continued prayer for his Houſe, as before <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omited ſo in Gods preſence implo<g ref="char:EOLhyphen"/>red by prayer upon that ground, for believing the Promiſe, he pour<g ref="char:EOLhyphen"/>eth out his Prayer.</p>
+               <p n="7">7. In verſ. 27. He ſets down the particular reaſon of this preſent exerciſe of his faith and prayer, namely, Gods preſent ſo grations Re<g ref="char:EOLhyphen"/>velation of his ſaid wonderful mercy to him: <hi>For</hi> (ſaith he) <hi>thou, O
+<pb n="27" facs="tcp:47663:15"/>Lord God, haſt revealed to thy Servant, ſaying, I will build thee an Houſe; therefore hath thy Servant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ound in his heart to pray this Prayer unto thee.</hi>
+               </p>
+               <p>In verſ. 28 he ruminates upon the former grounds of his faith, <hi>viz.</hi> Firſt that this Promiſe was from that God that was the great and moſt glorious God of <hi>Iſrael;</hi> and ſecondly from the truth of all his words, found experimentally to be true; and at preſent applies both to his part<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cular promiſe then made to himſelf: <hi>Thou</hi> (ſaith he) <hi>art that God, and thy words be true.</hi>
+               </p>
+               <p n="9">9. In the laſt verſe he improveth his ſpecial ſaith in reference to the ſaid ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecial promiſe to Him<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and his Houſe, by a twofold <hi>Amen,</hi> or <hi>ſo be it,</hi> (as I may term them) twice running again over the ſame: the one ſeeming to refer (as before) to Chriſts ſaid <hi>Davidical</hi> Kingdom of the thouſand years, <hi>That God would bleſs his Servants Houſe, that it may continue for ever before God:</hi> and the other to eternity, <hi>That it might be bleſſed with his bleſsing for ever:</hi> Or elſe for further inlargement of his prayer, That it might not onely continue before him, but be bleſſed alſo with his Bleſſing for ever.</p>
+               <p>And thus by ſo grateful acknowledgement manifeſted by ſpecial faith and fervent prayer, this humble, holy, kingly Prophet improved Gods ſo great and marvellous mercy, by the Prophet <hi>Nathan</hi> revealed to himſelf, for his Houſe and People of <hi>Iſrael</hi> for ever. Amen.</p>
+               <p n="8">VIII. Ei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hthly, <hi>Chriſtian Readers,</hi> If you ſhall reckon with me the eight ſaid Ty<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es in the Old and New World, as the Fifth Founda<g ref="char:EOLhyphen"/>tion o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Faith, and this from <hi>Ezekiel</hi> to be the Eighth, the number will be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſame, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſtrength much greater: For as the other two greater <hi>Prophets, Iſaiah</hi> and <hi>Jeremiah</hi> foretold <hi>Iſrael</hi>'s and <hi>Judah</hi>'s Captivi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, as alſo d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſome of the ſmaller; and by the ſame Prophets did God alſo, for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rt of the faithful Jews, foretel their great Reſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uration: for <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ah</hi> is large concerning the New <hi>Jeruſalem,</hi> chap. 60. appliſed by the holy Ghoſt to the New <hi>Jeruſalem,</hi> Rev. 21. And as <hi>Jeremiah</hi> hath many threatnings of Judgment and Captivity, ſo he hath many Promiſes of wonderful mercies, not onely concerning their Reduction from <hi>Bab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> but of many more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar excelling them, parti<g ref="char:EOLhyphen"/>cularly, That <hi>Jeruſal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m ſhall be the Throne of the Lord</hi> Chap. 3.17. [See our Tract on that Text <hi>&amp;c</hi>] So al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <hi>Ezekiel</hi> that was ſet as a ſign in in his Perſon had many ſigns in his Miniſtry appointed by God on ſpe<g ref="char:EOLhyphen"/>cial occaſions; yea very much of his Prophecy was ſymbolical, fraught with Divine Hieroglyphicks, with ſacred Figures and Types, not one<g ref="char:EOLhyphen"/>ly as to <hi>Judah</hi> and <hi>Jeruſalem</hi>'s ſad Calamities, then further and further prevailing, <hi>&amp;c.</hi> but more eſpecially <hi>Ezekiel,</hi> from Chap 36, 1, 2, 3, <hi>&amp;c.</hi>
+                  <pb n="28" facs="tcp:47663:16"/>to the end of that Book, is in many Prophecies, Viſions, Explications, large decipherings, ſo full concerning <hi>Iſrael</hi>'s and <hi>Judah</hi>'s mercies at their laſt great Reſtauration, that both <hi>Daniel</hi> and Chriſt in his <hi>Reve<g ref="char:EOLhyphen"/>lation</hi> apply, improve, and explain many things in <hi>Ezekiel</hi> very remark<g ref="char:EOLhyphen"/>ably; ſo extraordinary glorious were many of <hi>Ezektel</hi>'s Revelations, as in Chap. 1. &amp; 10, much to be parallelled with <hi>Rev.</hi> 4 ſetting forth a like glorious and gracious manifeſtation of God unto his Church through Jeſus Chriſt, and by h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s holy Spirit, ſet forth by Reſemblan<g ref="char:EOLhyphen"/>ces of ſuch Appearances, like Fire, Precious Stones, Rain-Bow, Wheels, Cherubims, Living W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghts, and the like; and the <hi>New Jeruſalem</hi> in the nine laſt Chapters of <hi>Ezekiel,</hi> which Learned Men have ſtiled for<g ref="char:EOLhyphen"/>merly the Revelation of the O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Teſtament: and indeed it appears to be a Revelation of the Promiſes of former Prophets, and of ſome of his own Predictions concerning the happy eſtate of <hi>Iſrael</hi> and <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> to come, when the Tabernacle of God will be with men, <hi>Rev.</hi> 21. and the City which he had deſcribed ſhall really be <hi>Jehavah Shamma,</hi> becauſe the Lord our Saviour will be perſonally there: And as many differences are obſervable in that foretold by <hi>Ezekiel</hi> for the comfort of the <hi>Jews,</hi> and that by the Apoſtle <hi>John</hi> reſpecting eſpecially the Gentiles that were beheaded for the Name of <hi>Jeſus,</hi> and reſiſted Anti<g ref="char:EOLhyphen"/>chriſt, <hi>&amp;c.</hi> And hence <hi>Ezekiel</hi> ſpeaks as to a people in that ſtate, un<g ref="char:EOLhyphen"/>der ſuch diſpenſations as the Jews were uſed to; but the other is emi<g ref="char:EOLhyphen"/>nently more gloriouſly deſcribed I conceive for ſome Reaſons, as in re<g ref="char:EOLhyphen"/>gard that part of Chriſts Subjects and Servants that eminently th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n will ſerve him, as <hi>Rev.</hi> 22.3, being int he natural life, firſt Jews, then G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>les converted (being the Nations of thoſe that are ſaved) will wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the light of the other <hi>Jeruſalem,</hi> Rev. 21. that came from God out of Heaven, by a Metouymie of the ſubject being the Spirits of juſt men made perfect which Chriſt r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him at his ſecond com<g ref="char:EOLhyphen"/>ing, and upon the taking their Bodies, they become Inhab tants of the <hi>Jeruſalem</hi> whoſe Maker and Builder is God, <hi>Heb</hi> 11.10. prepared for the fore-fathers, and all that without us ſhall not be ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e perfect<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 40. or perfect in one, as our Saviour prayed, <hi>John</hi> 17.23. when they ſhall b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſts glory, v. 24 See <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ract on <hi>Jer.</hi> 3.17. &amp; other parcels, <hi>&amp;c.</hi> And <hi>Daniel</hi> declares in a ſet order of Prophecy, firſt more generally, in Chap. 2. and Chap. 7. and after more particularly in Chap. 8. v. 13. to 20. with v. 26. and chap. 10. as in <hi>Rev.</hi> 1. Chriſts reſemblance, and chap. 11. much of the Roman Kingdom, from v. 36, as Mr. <hi>Med</hi> accurately and evidently explains: and chap. 12 v. 5 6, 7. the ſame in ſubſtance with <hi>Rev.</hi> 10. and <hi>Daniel</hi>'s Lot notes the firſt Reſurrection, <hi>Rev.</hi> 20.6. and to the ſame purpoſe <hi>Ezektel</hi> (chap. 36.) foretels largely the happy
+<pb n="29" facs="tcp:47663:16"/>eſtate of the Jews then, to whom the Gentiles will flow in, being both in the natural life, and ſhews the ſure foundation of that mercy, verſ. 25, 26, 27. <hi>viz. Gods ſprinkling clean water upon them, and giving them a new heart, and putting his Spirit into them:</hi> in the next Viſion, chap. 37 the ſaid Promiſes are confirmed by two viſions and explica<g ref="char:EOLhyphen"/>tions plainly and diſtinctly ſet down by God himſelf, as in our <hi>Word written,</hi> pag. 10.11. In the next Viſion he ſhews how <hi>Gog</hi> their great Oppreſſor ſhall be deſtroyed, who is aptly there deſcribed to the life, and ſaid to come in the latter days twice, <hi>Ezek.</hi> 38.8, 16. &amp; chap. 39. and from theace to the end of that Book deciphers in reference to the Jews their happy eſtate in the <hi>Davidical</hi> Kingdom of Chriſt, who be<g ref="char:EOLhyphen"/>ing that <hi>Jehovah,</hi> will perſonally be there, as we ſhewed before upon many conſiderations, <hi>&amp;c.</hi> So that <hi>Ezekiel's</hi> evidence being rightly un<g ref="char:EOLhyphen"/>derſtood, as in many of thoſe may appear, compared with like porti<g ref="char:EOLhyphen"/>ons of Scripture, his Teſtimony may well be applied as a very ſtrong Foundation of Faith, bearing its weight with all the reſt.</p>
+               <p n="9">IX. Ninthly, Twice ſtrongly ratified to <hi>Daniel</hi> two ways:
+<list>
+                     <item>Firſt, By Viou onely, <hi>Dan.</hi> 2. upon Gods revealing to him the Expoſition of <hi>Nebuchadnezzar</hi>'s Dream, <hi>viz.</hi> That after the four Mettle Kingdoms were paſt, there ſhould ſucceed the two-fold ſtate of Chriſt the Sonof mans Kingdom; namely,
+<list>
+                           <item>1. The Kingdom of the Stone, verſ. 4.</item>
+                           <item>2. The Kingdom of the Mouat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>in, verſ. 35.</item>
+                        </list>
+                     </item>
+                     <item>Secondly, Both by Viſion and Revelation, Chap. 7.
+<list>
+                           <item>1. By Viſion of four Beaſts, or four Kings, as v. 17. ruining each other, before the Kingdom of the Son of man ſhould take place, at his coming in the Clouds of Heaven, when Dominion over all Nations ſhall be given to him, to the worlds end, verſ 13, 14.</item>
+                           <item>2. By Revelation, from verſ. 16, to the end of the Chap<g ref="char:EOLhyphen"/>ter, eſpecially verſ. 17. the four Beaſts are ſaid to be four Kings, and verſ. 27. and as <hi>Luc.</hi> 22.29. they ſhall be made his Delegates, yet ſo as all ſhall obey him.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>Both <hi>Daniel</hi>'s ſaid Revelations and the ſeveral Viſions either ſeen or recorded by him concerning Chriſts <hi>Davidical</hi> Kingdom, are not onely
+<pb n="30" facs="tcp:47663:17"/>conſonant to former Prophecies and Types thereof; and eſpecially with Gods gracious Meſſage by <hi>Nathan,</hi> lately inſiſted upon from 2 <hi>Sam.</hi> 7. but alſo with all the particular Branches following to be conſidered in their order and nature, which manifeſt more and more this ſaid ſo divine and glorious Scripture-Truth reſpecting the ſaid Kingdom, which is the main ſubject of our third part, <hi>viz.</hi> the Parallel with its appendants, as thereby may be ſeen and conſidered, being of very great uſe rightly to underſtand much of holy Scripture <hi>&amp;c.</hi> There<g ref="char:EOLhyphen"/>fore we ſhall here ſay no more thereof, but refer the Reader thereunto; onely admoniſhing him againſt two learned Errours, [for learned mens authority hath been much pleaded for them, and hath long upheld them] Firſt of ſuch as will have the Book of <hi>Revelation</hi> to begin where <hi>Daniel</hi> ends, as if both thoſe Books were a continuation of the ſame Hiſtory, <hi>&amp;c.</hi> Secondly, Of ſuch as make the <hi>Selucidae</hi> and <hi>Lagidae,</hi> which were but the broken parts of the Greek-Kingdom, to be the fourth Monarchy in <hi>Daniel;</hi> which the Spirit of God recko <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth no further than <hi>Antiochus Epiphanes,</hi> who was repulſed by the Roman Na<g ref="char:EOLhyphen"/>vies appearance before <hi>Alexandria,</hi> which Mr. <hi>Mede</hi> manlfeſts to be thoſe Ships of <hi>Chittim,</hi> fore-told by <hi>Balaam, Numb.</hi> 24.24. and fulfilled then, as <hi>Dan.</hi> 11.30. Unto which two, a third late miſtake may be added, of them that would make the Book of <hi>Revelations</hi> to be an Hi<g ref="char:EOLhyphen"/>ſtory of things much paſt when given, and not a Prophecy of things to come to the end of the world: Whereas contrary to all three, the Book of <hi>Revelation</hi> is meerly a divine myſtical Comment or Expoſition of that hidden part of <hi>Daniel,</hi> then ſhut up and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ealed up t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the time of the end, as we ſhewed in our preface to the Parallel, and elſewhere. So that the right underſtanding of <hi>Revelation</hi>-Prophecy muſt neceſſa<g ref="char:EOLhyphen"/>rily be ſhut out thereby to all ſuch as retain any of tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s-opinions. See for this alſo the contrary Judgment and Reaſons of many learned men in our fifth convincing Argument in the <hi>Word Written.</hi>
+               </p>
+               <p n="10">X. Tenthly, Applied often by our Saviour in the Goſpel, to the <hi>Kingdom of the Son of man,</hi> Matth. 13 41. and <hi>the Son of mans coming in his Kingdom,</hi> Matth. 16.28. And, <hi>It is your Fathers good pleaſure to give you a Kingdom,</hi> Luc. 12.32. Again, <hi>Now is my Kingdom not from hence,</hi> John 18.37. And, <hi>I have appointed unto you a Kingdom, as my Father hath appointed unto me;</hi> which is the ſame which <hi>Daniel</hi> in viſi<g ref="char:EOLhyphen"/>on ſaw him coming to receive, <hi>Dan</hi> 7.13, 14. and was promi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed before to him, <hi>as the Son of David,</hi> 2 Sam. 7. which was alſo ſtiled by Chriſt, <hi>The Kingdom of God,</hi> that was foretold by him ſhould draw near at hand when <hi>Iſrael</hi>'s great Redemption (ſo often ſpoken of in the Prophets)
+<pb n="31" facs="tcp:47663:17"/>ſhall be accompliſhed, and upon the beholding the ſigns thereof, he bids the Jews lift up their heads, becauſe their Redemption then draws near, (as is very evident from <hi>Luc.</hi> 21.31.) of which our Saviour ſpake in a Parable, <hi>Luc.</hi> 21.11, 12 24 27. the time whereof is explained in the order of accompliſhment, <hi>Rev.</hi> 11.15. as is eaſily diſcernable to ſuch as are acquainted with the Series of that Book; which ſaid <hi>Da<g ref="char:EOLhyphen"/>vidical</hi> Kingdom of the Son of man ſhall begin in the world, as <hi>Da<g ref="char:EOLhyphen"/>niel</hi> declares, Chap. 7.13, 14. at his coming in the Clouds of Heaven, which Chriſt himſelf alſo further illuſtrates, ſhewing it ſhall be with his own Glory, and of the Fathers, and of his holy Angels, <hi>Luc.</hi> 9 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. when ten thouſand times ten thouſand ſhall miniſter to him, and ſtand before him, <hi>Dan.</hi> 7.10. when the Judgment is ſet to deſtroy the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſt, and give his Body to the burning <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, verſ. 11. All which Tex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> holy Scripture will be fulfilled above a thouſand years before the Re<g ref="char:EOLhyphen"/>ſurrection of wicked men to the general Judgment, as is moſt evident from the ſeries and order of things ſet down <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth by <hi>Daniel,</hi> and more fully explained in the Book of <hi>Revelation</hi> eſpecially in the twentieth Chapter the moſt clear Table of theſe laſt times and order of things to be done in them, for which purpoſe alſo conſider the foreſaid <hi>Parallel.</hi>
+               </p>
+               <p n="11">XI. Eleventhly, Being alſo ſo Expounded by the Apoſtle <hi>Paul,</hi> and others of the Apoſtles; concerning which Doctrine, fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt the Apoſtle <hi>Paul</hi> delivereth many things by way of explication thereof, we ſhall touch upon ſome of them briefly.</p>
+               <p>Firſt, When he comforts the troubled Saints, that they ſhall have Reſt with him and other Apoſtles and Sairts, whilſt Chriſt will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der tribulation to ſuch as troubled them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s down that time to be when <hi>the Lord Jeſus ſhall be revealed with his mighty Angels, in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>laming <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ta<g ref="char:EOLhyphen"/>king vengeance on them that know not God, and they not the Goſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of our Lord Jeſus Chriſt,</hi> &amp;c. 2 Theſ. 1.7, 8 9. and in Chap 2.8. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> further from <hi>Dan.</hi> 7. that Mother-Text, (as M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Mede</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>) of all ſuch Scriptures in the New Teſtament, That Chriſt will parti<g ref="char:EOLhyphen"/>cularly deſtroy that man of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſame appearance of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> coming or preſence, when the body of the ſ ame Beaſt, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ven to the burning <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, as <hi>Dan.</hi> 7.11. which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>eth by his Appearance and Kingdom, 2 <hi>Tim</hi> 4.1. as alſo was by <hi>Da<g ref="char:EOLhyphen"/>niel</hi> ſeen in viſion, <hi>&amp;c.</hi>
+               </p>
+               <p>Again, He further informs us ſtrongly, <hi>That Chriſt muſt reig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> till he hath put all his Enemies under his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eet,</hi> 1 Cor. 15.25. Now when he moſt eminently begins to do this, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is ſaid Reign begins, for ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n he ſits at the Fathers right hand, yea and ſits there exp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cting til<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:47663:18"/>time come, (as the ſame Apoſtle manifeſtly declares, <hi>Heb</hi> 10.12, 13.) and at that time the Beaſt is expreſly ſaid to be caſt into the lake of fire burning with brimſton, after the language of that moſt acred Pro<g ref="char:EOLhyphen"/>phecy. And to make his Expoſition yet more clear and forcible, he further teacheth, That the laſt Enemy that ſhall be deſtroyed in the ſaid Reign of Chriſt, ſhall be Death; <hi>viz.</hi> Bodily Death, that ſepa<g ref="char:EOLhyphen"/>rates Soul and Body; not the death of Soul and Body, for that there<g ref="char:EOLhyphen"/>upon will begin moſt to reign, and to reign over the Damned eternal<g ref="char:EOLhyphen"/>ly: but the other, namely the death of the Body, ſhall be deſtroyed and caſt into the lake burning with fire and brimſtone, that is, in its capacity, and after the language of Cods Spirit in that Book, the very being of it, as the general Deſtroyer of humane Nature in this life, will be taken away, when no ſuch matter will remain for it to work upon; when all Saints are rapt up to meet Chriſt in the air in a mo<g ref="char:EOLhyphen"/>ment, and wicked men ſtand in their ſtate to be judged, the preſent being of Humane Nature, ſeparable of Soul and Body, will be utterly aboliſhed: Now this ſaid deſtruction of bodily Death, that laſt Ene<g ref="char:EOLhyphen"/>my, will not be effected till above a thouſand years after the coming of the Son of man in the Clouds of Heaven, as was ſaid, and after the ſaid caſting of the Beaſt and falſe Prophet into the ſaid lake burning with brimſtone, as is very evident from <hi>Rev.</hi> 19.20. compared with the order of the ſaid Table of the Times, in Chap. 20. to verſ. 14. where Death and Hell are alſo ſaid to be caſt into the lake of fire, that is, Death and the Grave in the ſaid ſence, have no more uſe, or matter to work upon, and by conſequence no more being in the world. And whoſo faithfully and ſeriouſly endeavours rightly to weigh and conſi<g ref="char:EOLhyphen"/>der theſe things without partiallity or prepoſſeſſion (which at firſt may ſeem an hard thing for ſome ſorts of men to perform) yet upon ſuch endeavour, with humble ſeeking unto God for direction in theſe truths, and faithful and patient waiting upon him in the uſe of pertinent means, I doubt not but in Gods good time they may be well ſatisfied from h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Word and good Spirit of Grace in the reallity and truth of the ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtance of them: for which purpoſe I conceive it not needful here to ſay more for information or conviction (which is mainly my buſineſs) and for particul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r application hereof, it will be obvious to all know<g ref="char:EOLhyphen"/>ing and pious Chriſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans, which I am forced to leave to themſelves at preſent, for brevity-ſake, (publiſhing by Preſs having long been to me a difficult task) and when a Doctrinal Foundation in this caſe is once ſurely laid, application of theſe, with ſome points of ſuch nature, will in ſome reſpect, be made <hi>à fortiori,</hi> as from an additional conſideration, but yet a very weighty and moving conſideration (i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> particularities
+<pb n="33" facs="tcp:47663:18"/>therein to be conſidered in their ſeveral kinds and natures, be duly im<g ref="char:EOLhyphen"/>proved by Scripture-guidance) and the holy Spirit of Gods gracious aſſiſtance, the infallible means of being rightly guided into all needful profitable Divine Truth, as all holy Scripture-Truths are, and theſe in particular (though too much over-look'd and ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghted by ſome) though the great things of God, and an excellent and glorious part of the Go<g ref="char:EOLhyphen"/>ſpel of Chriſt, a rich and long inheritance of the Saints, yea (as we no<g ref="char:EOLhyphen"/>ted) the higheſt form of God-glorifying Creatures (then) <hi>viz.</hi> Saints and Angels, to fit them wonderfully above all other means in the pre<g ref="char:EOLhyphen"/>ceding ſix thouſand years, to glorifie him more excellently for ever and ever. We ſhall but even mention ſome like evidences from the other Apoſtles, <hi>Peter, James</hi> and <hi>John,</hi> the Witneſſes at Chriſts Transfigura<g ref="char:EOLhyphen"/>tion, who then joyntly ſaw that repreſentation of Chriſts glory at his coming in his Kingdom, (for he calls that his coming in that ſence, <hi>Matth.</hi> 16.28. <hi>Mark</hi> 9.1.) when thoſe eminent glorified Saints and Prophets, <hi>Moſes</hi> and <hi>Elias,</hi> appeared talking with him: Firſt, <hi>Peter</hi> ſets forth the beginning of that ſtate by <hi>the Reſtitution of all things,</hi> and <hi>the times of refreſhment from the preſence of the Lord,</hi> Acts 3.19 20, 21. and as witneſſed by all the holy Prophets of God ſince the World be<g ref="char:EOLhyphen"/>gan. And the Apoſtle <hi>James</hi> ſtiles it from the Prophet <hi>Amos</hi> 9.11. <hi>The raiſing of the Tabernacle of David that was fallen down,</hi> with ſome explication of the ſaid Prophecy, <hi>Acts</hi> 15.16, 17. Alſo the Evangeliſt <hi>John</hi> makes a telation of Chriſts Kingdom n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t being of this world, pro<g ref="char:EOLhyphen"/>ving it not ſo to be, in regard his Servants did not fight that he ſhould not then be delivered to the Jews; <hi>Now therefore</hi> (ſaith he) <hi>my Kingdom is not from hence,</hi> John 8.36, 37. I might adde <hi>Jude</hi>'s old Tradition, turned by him into ſacred Scripture, v. 13, 14. but that was ſpoken of before particularly.</p>
+               <p n="12">XII. Twelfthly, Come we now to the twelfth and laſt Foundation of our Faith, named in our general Title-page, and that is from the moſt full and ſtrongly evidenced Revelation, in that many ways moſt excellent part of the h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly Scripture given by Chriſt to his beloved Diſ<g ref="char:EOLhyphen"/>ciple <hi>John,</hi> concerning the ending of the fourth Monarchy, at the Beaſts deſtruction, Chap 18.11. to the end, and the beginning and continuance of Chriſts Kingdom or Reign with his Saints ſucceeding it, Chap. 20.4. thereby very evidently explaining by his beſt authority what <hi>Daniel</hi> ſaw and ſaid more darkly and briefly before, both of them being Gods beloved Witneſſes of the ſame Divine Truth; but Chriſts by his beloved Diſciple <hi>John,</hi> is the true and infallible Comment of the other: Which ſaid laſt Viſions, Chap. 19.11. and Chap. 20, 21, 22, now
+<pb n="34" facs="tcp:47663:19"/>are haſtening in order of accompliſhment (as we ſaid) to take place, (as upon many conſiderations may appear probable) when that hea<g ref="char:EOLhyphen"/>venly General of all Gods Hoſts (whoſe Name is, THE WORD OF GOD, (as he is there ſtiled) JESUS CHRIST the Great Meſ<g ref="char:EOLhyphen"/>ſiah and Deliverer of his People, THE KING OF KINGS AND LORD OF LORDS, verſ. 16. will then come the ſecond time with<g ref="char:EOLhyphen"/>ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin unto ſalvation, <hi>Heb.</hi> 9 <hi>ult.</hi> for them: not onely as in the King<g ref="char:EOLhyphen"/>dom of the Stone, ſpiritually and divinely to ſave their Souls from the hands of their ſpiritual Enemies, which he fulfilled at his firſt coming, and hath improved and carried on ever ſince, in their ſuffer<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ndition, and will do whilſt that Kingdom of Patience ſhall en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure; but when he will work an outwrad viſible temporal ſalvation, with the ſpirit al, for all his people, from all their Enemies, to ſerve him without fear of them, in righteouſneſs and holineſs before him, all the days of their lives, <hi>Luc.</hi> 1.75. (which with the context hath been but in a ſmall meaſure yet fulfilled, in the apteſt ſence, in compariſon of what it will in ſeveral reſpects then be) for then will be the great Vintage or He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veſt of Believers, which is to come in unto Chriſt in the ſaid thouſand years reign, when <hi>Iſa</hi> 53. chiefly ſhall (it ſeems) take place, that he ſhall <hi>ſee his ſeed and the pleaſure of the Lord ſhall proſper in his hand, in the prolonging of his days,</hi> even in all that time, as alſo he ſpeaks Chap. 9.10. wherein <hi>he ſhall ſit upon the Throne of David, and up<g ref="char:EOLhyphen"/>his Kingdom</hi> (mark that expreſſion) <hi>to order it;</hi> that is, <hi>David</hi>'s King<g ref="char:EOLhyphen"/>dom: for what end? namely, in ſuch a way as to eſtabliſh it, namely, by Juſtice and Judgment: and the Pſalmiſt excellently ſpeaketh there<g ref="char:EOLhyphen"/>of particularly, <hi>Juſtice and Judgment ſhall be the habitation</hi> (or eſtabliſh<g ref="char:EOLhyphen"/>ment, or ſtability) <hi>of thy Throne,</hi> Pſal. 89.14. and eſpecially <hi>Pſal</hi> 97.2. which particularly ſets down the beginning of Chriſts Kingdom, ſo explained <hi>Heb.</hi> 1.8. for Kingdoms are ſo to be eſtabliſhed, (ſaith the wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt <hi>Solemon,</hi> Prov. 16.12. <hi>The Throne is eſtabliſhed by Righteouſneſs,</hi> &amp; 25 5.) the contrary whereunto being acted by the ten Kings that give their power to the Beaſt, with others at the laſt, will bring de<g ref="char:EOLhyphen"/>ſtruction both upon him and them together, <hi>Rev.</hi> 19.18, 19, 20. like as ſome of them before that time had bewailed the burning of the Whore of <hi>Babylon</hi> with their <hi>Alas, alas,</hi> Chap. 18.9 10 But Chriſt being that Great King that [with an <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e</hi>] is foretold ſhall eminently rule in Righteou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs, <hi>Jer.</hi> 23.5, 6. Therefore he will ſo eſtabliſh his <hi>Davidical</hi> Throne (as was ſaid) in Righteouſneſs and Judgment, the ſure eſta<g ref="char:EOLhyphen"/>bliſhment thereof: For all their great temporal Promiſes then (as we ſhewed before) ſhall appear to be founded upon their ſpiritual endow<g ref="char:EOLhyphen"/>ments of Grace, when God will circumciſe their hearts, and the hearts
+<pb n="35" facs="tcp:47663:19"/>of their Seed, <hi>Deut.</hi> 30. v. 1. to 11. becauſe <hi>Iſrael</hi> then ſhall be a moſt holy people, therefore they ſhall be a moſt happy People; their Do<g ref="char:EOLhyphen"/>minion then will be founded in grace; and thereby preſerved alſo for ever, as God promiſed in that eminent Text 2 <hi>Sam.</hi> 7. and all their out<g ref="char:EOLhyphen"/>ward mercies will appear then to be derived to, and preſerved for them and their Seed, from that ſpiritual Covenant with <hi>Abraham,</hi> and tho<g ref="char:EOLhyphen"/>row that one Seed Chriſt, and from their intereſt therein, from whence the temporal will flow in unto them, according to their large meaſure of grace and ſanctification. But at the fulfilling of that ſaid Viſion, <hi>Rev.</hi> 19.11. when that Great General with his holy and celeſtial Army ſhall overcome and utterly deſtroy the Beaſt and falſe Prophet, there<g ref="char:EOLhyphen"/>upon will enſue Satans binding, and that ſecurely, for 1000 years, that he may not deceive the Nations any more, till the ſaid thouſand years be fulfilled, <hi>&amp;c.</hi> Chap. 20. which alſo will be contemporaneous with Chriſts Reign with his Saints on earth, the ſame thouſand years, which is Chriſts <hi>Davidical</hi> Kingdom, of which God gave ſuch aſſurance to <hi>David</hi> that it ſhould continue for ever, to the end of the world in the ſaid 2 <hi>Sam.</hi> 7. From which ground, with others all ſuch as have but a ſmall meaſure of <hi>David</hi>'s faith thereof, may by the due reading, im<g ref="char:EOLhyphen"/>proving, and the right and ſerious conſidering of his ſecurity therein, (through Gods mercy) be ſufficiently ſatisfied in it. And in very deed, ſo much hath by many learned perſons been written to this purpoſe, and preached upon this Text, <hi>Rev.</hi> 20.4, 5, <hi>&amp;c.</hi> that I judge it needleſs to adde any more here upon that account: Onely obſerve how <hi>Daniel</hi> and the <hi>Revelation</hi> agree in our Parallel of the Ruine of the Roman Empire, (which is now haſtening under the laſt head thereof) when Chriſts ſaid Reign will begin: Whoſe abominable wickedneſs, vailed under ſuch hypocritical pretences of piety and charity, varniſhed over with a ſeeming colourable antiquity, propt up by the Popes ſo long fal<g ref="char:EOLhyphen"/>ſified infallibility, under which and other falſe Vizards, whilſt the ſaid Pope with his Complices pretend moſt zeal for Chriſts Religion and Souls Salvation, even then they really ſight moſt againſt the one, and really ſeek to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy the other, (as woful experience <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th long mani<g ref="char:EOLhyphen"/>feſted) one the one part undermining the Truth, making void the Or<g ref="char:EOLhyphen"/>dinances and Inſtitutions of Chriſt, by adding to then, or taking from them, pollute his Worſhip, diſhonour his Goſpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and cauſe his Reli<g ref="char:EOLhyphen"/>gion to be reproached, and his Name blaſphe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, amongſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Paganiſh and Barbarous Nations, that know him not: And on the other part, by their many Cra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts and Cruel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and perſecute poor ignoran: Souls, or others tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fall into their Nets, or by their tyrannous Practices, (the myſterious in quity whereof will be
+<pb n="36" facs="tcp:47663:20"/>revealed when their Inquiſitors ſhall come to be anatomized) whereby they have earneſtly laboured to force them to yield to their evil deſigns; Yea how have they violently for many hundreds of years paſt killed the Saints? How many moſt barbarous maſſacres and bloody perſecu<g ref="char:EOLhyphen"/>tions have they acted in againſt thoſe meek Lambs of that (now alive, yet once was) ſlain Lamb of God Chriſt Jeſus, who ſhortly to their terror ſhall appear to be the Lion of the Tribe of <hi>Judah, Rev.</hi> 5.5. when they have filled up their meaſure, which they have ever been do<g ref="char:EOLhyphen"/>ing from the time the great red Dragon gave unto that multi-form'd Beaſt his Seat, with great power and authority to act therein for his forty two months, <hi>Rev.</hi> 13.1, 6 7. which he hath accordingly improved, as both Hiſtory and Experience hath abundantly (though ſadly) diſ<g ref="char:EOLhyphen"/>covered; and will do ſo more and more to his power, (which is the heavy ſpiritual Judgment of that man of Sin, and therefore more hea<g ref="char:EOLhyphen"/>vy, becauſe ſo ſenceleſs of it) even until his time ſhall be no longer, <hi>Rev.</hi> 10.6 7. as the Angel (probably Chriſt) forewarns that ſtrange Creature, and when it will be: And doth not the height of thoſe pro<g ref="char:EOLhyphen"/>digious impieties and prevailing abominations too too conſpicuous in that whole Antichriſtian Body, and every Limb thereof, in the ſight of all obſervant perſons and people appear evidently to haſten the deſtruction thereof, together with that ſaid Beaſt, who as <hi>Daniel</hi> alſo foreſaw ſhould be then ſlain, and his body given to the burning flame, <hi>chap</hi> 7, 11. Of which Propheſie and Viſion this glorious appear<g ref="char:EOLhyphen"/>ance made by Chriſt of his next coming, <hi>chap.</hi> 19 11. is a clear com<g ref="char:EOLhyphen"/>ment and decyphered completion ſhortly to take place (as we have reaſon to expect and alſo to be fully accompliſhed accordingly.</p>
+               <p>And then likewiſe together with <hi>Babilons</hi> ruine will happily haſten the raiſing up of <hi>Sion.</hi> And upon Antichriſts deſtruction will cer<g ref="char:EOLhyphen"/>tainly ſucceed Chriſts ſaid ſo wonderful exaltation in in the world, in that his Divine and Kingly viſible Glory and Majeſty then to be ma<g ref="char:EOLhyphen"/>nifeſt, namely to be the Prince of the Kings of the earth (as <hi>Rev.</hi> 1.5. though formerly rejected by ſuch many times) and that in the ſight of men, angels, and all creatures, <hi>Rev.</hi> 5.9, 10, 11, 12, 13. who ſhall then bow the knee and acknowledge him to be the Lord, <hi>Phil.</hi> 2.9. for which at preſent the whole creation moſt he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vily groaneth, <hi>Rom.</hi> 8.22, 23. When that bleſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d new <hi>Jeruſalem</hi> ſtate ſhall appear, which then will be repleniſhed with its holy and happy new raiſed Inhabitants, with all that bleſſed communion of doubly ſaved Saints and holy Angels in ſuch great and innumerable multi<g ref="char:EOLhyphen"/>tudes, which ſaid Angels as in heaven before they were wont to re<g ref="char:EOLhyphen"/>joyce in ſinners converſion, and even to be ſerviceable therein, ſo
+<pb n="37" facs="tcp:47663:20"/>will they then much more rejoyce in ſuch happy communion of ſuch multitudes of ſaved Saints, Jews and Gentiles then to come in, and of the perfectly holy communion of the before deceaſed Saints, but then inveſted (happily) with their new raiſed bodies by the ſame power of Chriſt, whereby then he will perfectly ſubdue all things (in their due order) unto himſelf (as the Apoſtle <hi>Paul</hi> inſtructs us, <hi>Phil.</hi> 3. <hi>ult.</hi>) Then ſhall they be <hi>Iſangeloi,</hi> as our Saviour ſpeaks, like to the An<g ref="char:EOLhyphen"/>gels of God (before) in heaven, when the ſaid <hi>Hiero-metropolis,</hi> or holy mother City, as the Prophet <hi>Eſay</hi> foretold, <hi>will ariſe and ſhine becauſe her light is come, and the glory of the Lord is riſen upon her,</hi> ch. 60. ver. 1. as in thoſe large and various deſcriptons of the manifold excellency of that City, both in former and following chapters are ſet down, as alſo in many other portions of holy Scripture may be obſerved: Some of which are applied, <hi>Rev.</hi> 21. to that City particularly (as we noted) whereby the Spirit God teacheth us evidently their proper meaning and literal ſence, <hi>riz.</hi> reſpecting the happy eſtate of that great and holy New <hi>Jeruſalem,</hi> whoſe beauty and glory; and bleſſedneſs on earth would require a large volumn aptly to diſplay, in what from Scripture grounds might to that purpoſe be evidenced, reſpecting the ſame, and yet many things more than what now we can attain to, may be ground<g ref="char:EOLhyphen"/>edly expected. For that time when the Temple of God ſhall be opened in heaven, and men ſhall ſee in his Temple the Ark of his Teſtament, <hi>Rev.</hi> 11.19, and the light of the Moon ſhall be as the light of the Sun, and the light of one day ſhall be ſevenfold as the light of ſeven daies, as is foretold thereof, <hi>Eſ.</hi> 30.26. many myſteries of Chriſt and his Religion, of his works of Creation, Redemption and Providence, and many myſteries now in the varieties of the creatures (many wayes till then little underſtood as is probable) when the Lord ſhall be unto that City her everlaſting light, and her God her glory, <hi>Iſa.</hi> 60.19. <hi>And the earth ſhall be filled with the knowledge of the glory of the Lord, as the Waters cover the Sea.</hi> Hab. 2 14. It will then be a filling of the Earth with knowledge, and that of the glory of the Lord, and in ſuch meaſure as ſhall be to the uttermoſt capacity of it, as the Sea, ready to overflow where it hath any paſſage, and would co<g ref="char:EOLhyphen"/>ver every place with its waters; ſo in that time there will be a know<g ref="char:EOLhyphen"/>ledge of all then knowable, as we may ſay. Beſides thoſe Excellencies ſet down to be before, in, and after the thouſand years of Chriſts ſaid Reign (as in our firſt convincing Argument in the <hi>Word Written</hi> are to be ſeen) concerning which a Body of Divinity reſpecting that world might uſefully be written from Scripture warrant, from all which as from an excellent School reſerved for the higheſt form of
+<pb n="38" facs="tcp:47663:21"/>thoſe than ſo excellent God glorifying Creatures, raiſed Saints and Angels, with others, when all things by Chriſt ſhall then be made new, as <hi>Rev.</hi> 21 5. I doubt not but abundant matter of everlaſting pra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe will ſtrong y for that ſtate enforce the ſame, yet with the great<g ref="char:EOLhyphen"/>eſt will<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngneſs and complacency, upon all ſuch or the like advantager. Whereupon theſe afterwards everlaſting Hallelujahs will moſt amply and perpetually be ſung to the Trin-Une Deity of Father, Son, and holy Ghoſt, eternally moſt bleſſed holy and glorious, by men and An<g ref="char:EOLhyphen"/>gels (as was ſaid) for ever and ever. Amen.</p>
+            </div>
+            <epigraph>
+               <q>
+                  <l>To Glory's God all Glory's due for aye:</l>
+                  <l>To him alone this Due let all ſuch pay.</l>
+               </q>
+            </epigraph>
+            <closer>AMEN.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47663:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
